@@ -1,0 +1,4266 @@
+{
+  "source1440": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "section mbws_banner-slider",
+        "height": 600
+      },
+      {
+        "name": "section mbws_about-home",
+        "height": 409.34375
+      },
+      {
+        "name": "section mbws_solutions_products",
+        "height": 1130.578125
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 565
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 525
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 525
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 585
+      },
+      {
+        "name": "section mbws_why-choose",
+        "height": 648.78125
+      },
+      {
+        "name": "section mbws_projects dark",
+        "height": 686.265625
+      },
+      {
+        "name": "section mvbws_blogs",
+        "height": 1106.1875
+      },
+      {
+        "name": "section mbws_accede",
+        "height": 389.40625
+      },
+      {
+        "name": "section",
+        "height": 379.453125
+      },
+      {
+        "name": "section mbws_dangky",
+        "height": 706.265625
+      },
+      {
+        "name": "section mbws_contact-home dark",
+        "height": 457.59375
+      }
+    ],
+    "geometry": [
+      {
+        "text": "Đánh giá ADN  để cải thiện sức khỏe\n\t\t\n\n#text-3415815617 {\n ",
+        "rect": {
+          "x": 720,
+          "y": -7890.71875,
+          "width": 625,
+          "height": 230.71875,
+          "top": -7890.71875,
+          "right": 1345,
+          "bottom": -7660,
+          "left": 720
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe\n\t\t\n\n#text-29",
+        "rect": {
+          "x": 2160,
+          "y": -7890.71875,
+          "width": 625,
+          "height": 230.71875,
+          "top": -7890.71875,
+          "right": 2785,
+          "bottom": -7660,
+          "left": 2160
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 318.328125,
+          "y": -7550,
+          "width": 803.328125,
+          "height": 37.421875,
+          "top": -7550,
+          "right": 1121.65625,
+          "bottom": -7512.578125,
+          "left": 318.328125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 647.53125,
+          "y": -7550,
+          "width": 144.921875,
+          "height": 37.421875,
+          "top": -7550,
+          "right": 792.453125,
+          "bottom": -7512.578125,
+          "left": 647.53125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 110,
+          "y": -7140.65625,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -7140.65625,
+          "right": 1330,
+          "bottom": -7103.234375,
+          "left": 110
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 550.25,
+          "y": -7140.65625,
+          "width": 339.5,
+          "height": 37.421875,
+          "top": -7140.65625,
+          "right": 889.75,
+          "bottom": -7103.234375,
+          "left": 550.25
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Hệ thống khí y tế",
+        "rect": {
+          "x": 95,
+          "y": -7034.84375,
+          "width": 625,
+          "height": 280,
+          "top": -7034.84375,
+          "right": 720,
+          "bottom": -6754.84375,
+          "left": 95
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống khí sạch",
+        "rect": {
+          "x": 720,
+          "y": -7034.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -7034.84375,
+          "right": 1032.5,
+          "bottom": -6754.84375,
+          "left": 720
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống báo gọi y tá",
+        "rect": {
+          "x": 1032.5,
+          "y": -7034.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -7034.84375,
+          "right": 1345,
+          "bottom": -6754.84375,
+          "left": 1032.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống chuyển mẫu",
+        "rect": {
+          "x": 95,
+          "y": -6754.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -6754.84375,
+          "right": 407.5,
+          "bottom": -6474.84375,
+          "left": 95
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống nội thất phòng mổ cao cấp",
+        "rect": {
+          "x": 407.5,
+          "y": -6754.84375,
+          "width": 625,
+          "height": 280,
+          "top": -6754.84375,
+          "right": 1032.5,
+          "bottom": -6474.84375,
+          "left": 407.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Sản phẩm bệnh viện",
+        "rect": {
+          "x": 1032.5,
+          "y": -6754.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -6754.84375,
+          "right": 1345,
+          "bottom": -6474.84375,
+          "left": 1032.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị phòng mổ",
+        "rect": {
+          "x": 95,
+          "y": -6474.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6474.84375,
+          "right": 511.65625,
+          "bottom": -6194.84375,
+          "left": 95
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị hồi sức cấp cứu",
+        "rect": {
+          "x": 511.65625,
+          "y": -6474.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6474.84375,
+          "right": 928.3125,
+          "bottom": -6194.84375,
+          "left": 511.65625
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Khử khuẩn Tiệt trùng",
+        "rect": {
+          "x": 928.3125,
+          "y": -6474.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6474.84375,
+          "right": 1344.96875,
+          "bottom": -6194.84375,
+          "left": 928.3125
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Xem thêm",
+        "rect": {
+          "x": 95,
+          "y": -6194.84375,
+          "width": 1250,
+          "height": 84.765625,
+          "top": -6194.84375,
+          "right": 1345,
+          "bottom": -6110.078125,
+          "left": 95
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-4006",
+        "rect": {
+          "x": 110,
+          "y": -5984.203125,
+          "width": 580,
+          "height": 383.25,
+          "top": -5984.203125,
+          "right": 690,
+          "bottom": -5600.953125,
+          "left": 110
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 58px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1572369232 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 750,
+          "y": -6010.078125,
+          "width": 580,
+          "height": 435,
+          "top": -6010.078125,
+          "right": 1330,
+          "bottom": -5575.078125,
+          "left": 750
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1108697037 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 110,
+          "y": -5465.078125,
+          "width": 580,
+          "height": 435,
+          "top": -5465.078125,
+          "right": 690,
+          "bottom": -5030.078125,
+          "left": 110
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG\n\t\t\n\n#text-7",
+        "rect": {
+          "x": 750,
+          "y": -5441.578125,
+          "width": 580,
+          "height": 387.984375,
+          "top": -5441.578125,
+          "right": 1330,
+          "bottom": -5053.59375,
+          "left": 750
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 58px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-1789",
+        "rect": {
+          "x": 110,
+          "y": -4899.8125,
+          "width": 580,
+          "height": 354.46875,
+          "top": -4899.8125,
+          "right": 690,
+          "bottom": -4545.34375,
+          "left": 110
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 58px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_488756508 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 750,
+          "y": -4940.078125,
+          "width": 580,
+          "height": 435,
+          "top": -4940.078125,
+          "right": 1330,
+          "bottom": -4505.078125,
+          "left": 750
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1961394264 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 110,
+          "y": -4385.078125,
+          "width": 580,
+          "height": 435,
+          "top": -4385.078125,
+          "right": 690,
+          "bottom": -3950.078125,
+          "left": 110
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT\nBẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ\n\t\t\n\n",
+        "rect": {
+          "x": 750,
+          "y": -4311.21875,
+          "width": 580,
+          "height": 287.28125,
+          "top": -4311.21875,
+          "right": 1330,
+          "bottom": -4023.9375,
+          "left": 750
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 58px",
+        "margin": "0px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 110,
+          "y": -3780.078125,
+          "width": 803.328125,
+          "height": 37.421875,
+          "top": -3780.078125,
+          "right": 913.328125,
+          "bottom": -3742.65625,
+          "left": 110
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 292.21875,
+          "y": -3780.078125,
+          "width": 438.875,
+          "height": 37.421875,
+          "top": -3780.078125,
+          "right": 731.09375,
+          "bottom": -3742.65625,
+          "left": 292.21875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 110,
+          "y": -3161.296875,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -3161.296875,
+          "right": 1330,
+          "bottom": -3123.875,
+          "left": 110
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 676.96875,
+          "y": -3161.296875,
+          "width": 86.0625,
+          "height": 37.421875,
+          "top": -3161.296875,
+          "right": 763.03125,
+          "bottom": -3123.875,
+          "left": 676.96875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -3024.6875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -3024.6875,
+          "right": 480,
+          "bottom": -2659.796875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 480,
+          "y": -3024.6875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -3024.6875,
+          "right": 960,
+          "bottom": -2659.796875,
+          "left": 480
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 960,
+          "y": -3024.6875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -3024.6875,
+          "right": 1440,
+          "bottom": -2659.796875,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 480,
+          "bottom": -2294.90625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 480,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 960,
+          "bottom": -2294.90625,
+          "left": 480
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 960,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 1440,
+          "bottom": -2294.90625,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 480,
+          "bottom": -2294.90625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 480,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 960,
+          "bottom": -2294.90625,
+          "left": 480
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 960,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 1440,
+          "bottom": -2294.90625,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 480,
+          "bottom": -2294.90625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 480,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 960,
+          "bottom": -2294.90625,
+          "left": 480
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 960,
+          "y": -2659.796875,
+          "width": 480,
+          "height": 364.890625,
+          "top": -2659.796875,
+          "right": 1440,
+          "bottom": -2294.90625,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 110,
+          "y": -2475.03125,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -2475.03125,
+          "right": 1330,
+          "bottom": -2437.609375,
+          "left": 110
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 664.890625,
+          "y": -2475.03125,
+          "width": 110.203125,
+          "height": 37.421875,
+          "top": -2475.03125,
+          "right": 775.09375,
+          "bottom": -2437.609375,
+          "left": 664.890625
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 110,
+          "y": -2181.734375,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -2181.734375,
+          "right": 496.65625,
+          "bottom": -1964.03125,
+          "left": 110
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t\t\t\t\n\t",
+        "rect": {
+          "x": 526.65625,
+          "y": -2181.734375,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -2181.734375,
+          "right": 913.3125,
+          "bottom": -1964.03125,
+          "left": 526.65625
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019\t\t\t\t\t",
+        "rect": {
+          "x": 943.3125,
+          "y": -2181.734375,
+          "width": 386.65625,
+          "height": 211.046875,
+          "top": -2181.734375,
+          "right": 1329.96875,
+          "bottom": -1970.6875,
+          "left": 943.3125
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22/05",
+        "rect": {
+          "x": 110,
+          "y": -1716.546875,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.546875,
+          "right": 496.65625,
+          "bottom": -1498.84375,
+          "left": 110
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n\t\t\t\t\t",
+        "rect": {
+          "x": 526.65625,
+          "y": -1716.546875,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.546875,
+          "right": 913.3125,
+          "bottom": -1498.84375,
+          "left": 526.65625
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 943.3125,
+          "y": -1716.546875,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.546875,
+          "right": 1329.96875,
+          "bottom": -1498.84375,
+          "left": 943.3125
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 110,
+          "y": -1368.84375,
+          "width": 1220,
+          "height": 46.0625,
+          "top": -1368.84375,
+          "right": 1330,
+          "bottom": -1322.78125,
+          "left": 110
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 543.0625,
+          "y": -1368.84375,
+          "width": 353.875,
+          "height": 46.0625,
+          "top": -1368.84375,
+          "right": 896.9375,
+          "bottom": -1322.78125,
+          "left": 543.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 110,
+          "y": -979.4375,
+          "width": 1220,
+          "height": 46.0625,
+          "top": -979.4375,
+          "right": 1330,
+          "bottom": -933.375,
+          "left": 110
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 555.0625,
+          "y": -979.4375,
+          "width": 329.859375,
+          "height": 46.0625,
+          "top": -979.4375,
+          "right": 884.921875,
+          "bottom": -933.375,
+          "left": 555.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 110,
+          "y": -569.984375,
+          "width": 595,
+          "height": 46.0625,
+          "top": -569.984375,
+          "right": 705,
+          "bottom": -523.921875,
+          "left": 110
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 346.765625,
+          "y": -569.984375,
+          "width": 121.453125,
+          "height": 46.0625,
+          "top": -569.984375,
+          "right": 468.21875,
+          "bottom": -523.921875,
+          "left": 346.765625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 323,
+          "y": 106.28125,
+          "width": 330,
+          "height": 46.0625,
+          "top": 106.28125,
+          "right": 653,
+          "bottom": 152.34375,
+          "left": 323
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 356.8125,
+          "y": 106.28125,
+          "width": 262.359375,
+          "height": 46.0625,
+          "top": 106.28125,
+          "right": 619.171875,
+          "bottom": 152.34375,
+          "left": 356.8125
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 526.65625,
+          "y": 563.875,
+          "width": 178.328125,
+          "height": 35.296875,
+          "top": 563.875,
+          "right": 704.984375,
+          "bottom": 599.171875,
+          "left": 526.65625
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 526.65625,
+          "y": 563.875,
+          "width": 94.375,
+          "height": 37.296875,
+          "top": 563.875,
+          "right": 621.03125,
+          "bottom": 601.171875,
+          "left": 526.65625
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 734.984375,
+          "y": 563.875,
+          "width": 282.5,
+          "height": 35.296875,
+          "top": 563.875,
+          "right": 1017.484375,
+          "bottom": 599.171875,
+          "left": 734.984375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 734.984375,
+          "y": 563.875,
+          "width": 67.28125,
+          "height": 37.296875,
+          "top": 563.875,
+          "right": 802.265625,
+          "bottom": 601.171875,
+          "left": 734.984375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 1047.484375,
+          "y": 563.875,
+          "width": 282.5,
+          "height": 35.296875,
+          "top": 563.875,
+          "right": 1329.984375,
+          "bottom": 599.171875,
+          "left": 1047.484375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 1047.484375,
+          "y": 563.875,
+          "width": 65.140625,
+          "height": 37.296875,
+          "top": 563.875,
+          "right": 1112.625,
+          "bottom": 601.171875,
+          "left": 1047.484375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "local1440": {
+    "overflow": false,
+    "sections": [],
+    "geometry": [],
+    "brokenImages": [],
+    "errors": [
+      "./src/app/globals.css:2:1\nError: Parsing CSS source code failed\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nInvalid dangling combinator in selector\n\nGenerated code of PostCSS transform of file content of src/app/globals.css:\n./src/app/globals.css:2:1\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nImport trace:\n  Client Component Browser:\n    ./src/app/globals.css [Client Component Browser]\n    ./src/app/layout.tsx [Server Component]\n\n"
+    ]
+  },
+  "source390": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "section mbws_banner-slider",
+        "height": 400
+      },
+      {
+        "name": "section mbws_about-home",
+        "height": 562.90625
+      },
+      {
+        "name": "section mbws_solutions_products",
+        "height": 2852
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 825.03125
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 830.984375
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 756.25
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 830.203125
+      },
+      {
+        "name": "section mbws_why-choose",
+        "height": 980.875
+      },
+      {
+        "name": "section mbws_projects dark",
+        "height": 1258.34375
+      },
+      {
+        "name": "section mvbws_blogs",
+        "height": 2751.5625
+      },
+      {
+        "name": "section mbws_accede",
+        "height": 730.28125
+      },
+      {
+        "name": "section",
+        "height": 349.453125
+      },
+      {
+        "name": "section mbws_dangky",
+        "height": 916.3125
+      },
+      {
+        "name": "section mbws_contact-home dark",
+        "height": 457.59375
+      }
+    ],
+    "geometry": [
+      {
+        "text": "Đánh giá ADN  để cải thiện sức khỏe\n\t\t\n\n#text-793513975 {\n  ",
+        "rect": {
+          "x": 39,
+          "y": -14479.234375,
+          "width": 351,
+          "height": 184.234375,
+          "top": -14479.234375,
+          "right": 390,
+          "bottom": -14295,
+          "left": 39
+        },
+        "font": "11px / 17.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe\n\t\t\n\n#text-34",
+        "rect": {
+          "x": 429,
+          "y": -14507.828125,
+          "width": 351,
+          "height": 212.828125,
+          "top": -14507.828125,
+          "right": 780,
+          "bottom": -14295,
+          "left": 429
+        },
+        "font": "11px / 17.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 15,
+          "y": -14205,
+          "width": 360,
+          "height": 37.421875,
+          "top": -14205,
+          "right": 375,
+          "bottom": -14167.578125,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 122.53125,
+          "y": -14205,
+          "width": 144.921875,
+          "height": 37.421875,
+          "top": -14205,
+          "right": 267.453125,
+          "bottom": -14167.578125,
+          "left": 122.53125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 15,
+          "y": -13642.09375,
+          "width": 360,
+          "height": 78.84375,
+          "top": -13642.09375,
+          "right": 375,
+          "bottom": -13563.25,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 30,
+          "y": -13640.09375,
+          "width": 330,
+          "height": 74.84375,
+          "top": -13640.09375,
+          "right": 360,
+          "bottom": -13565.25,
+          "left": 30
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Hệ thống khí y tế",
+        "rect": {
+          "x": 0,
+          "y": -13494.859375,
+          "width": 390,
+          "height": 280,
+          "top": -13494.859375,
+          "right": 390,
+          "bottom": -13214.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống khí sạch",
+        "rect": {
+          "x": 0,
+          "y": -13214.859375,
+          "width": 390,
+          "height": 280,
+          "top": -13214.859375,
+          "right": 390,
+          "bottom": -12934.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống báo gọi y tá",
+        "rect": {
+          "x": 0,
+          "y": -12934.859375,
+          "width": 390,
+          "height": 280,
+          "top": -12934.859375,
+          "right": 390,
+          "bottom": -12654.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống chuyển mẫu",
+        "rect": {
+          "x": 0,
+          "y": -12654.859375,
+          "width": 390,
+          "height": 280,
+          "top": -12654.859375,
+          "right": 390,
+          "bottom": -12374.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống nội thất phòng mổ cao cấp",
+        "rect": {
+          "x": 0,
+          "y": -12374.859375,
+          "width": 390,
+          "height": 280,
+          "top": -12374.859375,
+          "right": 390,
+          "bottom": -12094.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Sản phẩm bệnh viện",
+        "rect": {
+          "x": 0,
+          "y": -12094.859375,
+          "width": 390,
+          "height": 280,
+          "top": -12094.859375,
+          "right": 390,
+          "bottom": -11814.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị phòng mổ",
+        "rect": {
+          "x": 0,
+          "y": -11814.859375,
+          "width": 390,
+          "height": 280,
+          "top": -11814.859375,
+          "right": 390,
+          "bottom": -11534.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị hồi sức cấp cứu",
+        "rect": {
+          "x": 0,
+          "y": -11534.859375,
+          "width": 390,
+          "height": 280,
+          "top": -11534.859375,
+          "right": 390,
+          "bottom": -11254.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Khử khuẩn Tiệt trùng",
+        "rect": {
+          "x": 0,
+          "y": -11254.859375,
+          "width": 390,
+          "height": 280,
+          "top": -11254.859375,
+          "right": 390,
+          "bottom": -10974.859375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Xem thêm",
+        "rect": {
+          "x": 0,
+          "y": -10974.859375,
+          "width": 390,
+          "height": 84.765625,
+          "top": -10974.859375,
+          "right": 390,
+          "bottom": -10890.09375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-4279",
+        "rect": {
+          "x": 15,
+          "y": -10490.09375,
+          "width": 360,
+          "height": 395.03125,
+          "top": -10490.09375,
+          "right": 375,
+          "bottom": -10095.0625,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1396780105 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -10790.09375,
+          "width": 360,
+          "height": 270,
+          "top": -10790.09375,
+          "right": 375,
+          "bottom": -10520.09375,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1013768131 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -9985.0625,
+          "width": 360,
+          "height": 270,
+          "top": -9985.0625,
+          "right": 375,
+          "bottom": -9715.0625,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG\n\t\t\n\n#text-2",
+        "rect": {
+          "x": 15,
+          "y": -9685.0625,
+          "width": 360,
+          "height": 440.984375,
+          "top": -9685.0625,
+          "right": 375,
+          "bottom": -9244.078125,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-4171",
+        "rect": {
+          "x": 15,
+          "y": -8854.078125,
+          "width": 360,
+          "height": 366.25,
+          "top": -8854.078125,
+          "right": 375,
+          "bottom": -8487.828125,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_119923338 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -9154.078125,
+          "width": 360,
+          "height": 270,
+          "top": -9154.078125,
+          "right": 375,
+          "bottom": -8884.078125,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_67618786 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -8367.828125,
+          "width": 360,
+          "height": 270,
+          "top": -8367.828125,
+          "right": 375,
+          "bottom": -8097.828125,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT\nBẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ\n\t\t\n\n",
+        "rect": {
+          "x": 15,
+          "y": -8067.828125,
+          "width": 360,
+          "height": 380.203125,
+          "top": -8067.828125,
+          "right": 375,
+          "bottom": -7687.625,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 18px",
+        "margin": "0px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 15,
+          "y": -7517.625,
+          "width": 360,
+          "height": 78.84375,
+          "top": -7517.625,
+          "right": 375,
+          "bottom": -7438.78125,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 30,
+          "y": -7515.625,
+          "width": 330,
+          "height": 74.84375,
+          "top": -7515.625,
+          "right": 360,
+          "bottom": -7440.78125,
+          "left": 30
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 15,
+          "y": -6566.75,
+          "width": 360,
+          "height": 37.421875,
+          "top": -6566.75,
+          "right": 375,
+          "bottom": -6529.328125,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 151.96875,
+          "y": -6566.75,
+          "width": 86.0625,
+          "height": 37.421875,
+          "top": -6566.75,
+          "right": 238.03125,
+          "bottom": -6529.328125,
+          "left": 151.96875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -6385.34375,
+          "width": 390,
+          "height": 297.390625,
+          "top": -6385.34375,
+          "right": 390,
+          "bottom": -6087.953125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -6087.953125,
+          "width": 390,
+          "height": 297.390625,
+          "top": -6087.953125,
+          "right": 390,
+          "bottom": -5790.5625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -5790.5625,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5790.5625,
+          "right": 390,
+          "bottom": -5493.171875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5493.171875,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5493.171875,
+          "right": 390,
+          "bottom": -5195.78125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5195.78125,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5195.78125,
+          "right": 390,
+          "bottom": -4898.390625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4898.390625,
+          "width": 390,
+          "height": 297.390625,
+          "top": -4898.390625,
+          "right": 390,
+          "bottom": -4601,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5493.171875,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5493.171875,
+          "right": 390,
+          "bottom": -5195.78125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5195.78125,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5195.78125,
+          "right": 390,
+          "bottom": -4898.390625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4898.390625,
+          "width": 390,
+          "height": 297.390625,
+          "top": -4898.390625,
+          "right": 390,
+          "bottom": -4601,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5493.171875,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5493.171875,
+          "right": 390,
+          "bottom": -5195.78125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5195.78125,
+          "width": 390,
+          "height": 297.390625,
+          "top": -5195.78125,
+          "right": 390,
+          "bottom": -4898.390625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4898.390625,
+          "width": 390,
+          "height": 297.390625,
+          "top": -4898.390625,
+          "right": 390,
+          "bottom": -4601,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 15,
+          "y": -5308.40625,
+          "width": 360,
+          "height": 37.421875,
+          "top": -5308.40625,
+          "right": 375,
+          "bottom": -5270.984375,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 139.890625,
+          "y": -5308.40625,
+          "width": 110.203125,
+          "height": 37.421875,
+          "top": -5308.40625,
+          "right": 250.09375,
+          "bottom": -5270.984375,
+          "left": 139.890625
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 15,
+          "y": -5030.09375,
+          "width": 360,
+          "height": 196.859375,
+          "top": -5030.09375,
+          "right": 375,
+          "bottom": -4833.234375,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t\t\t\t\n\t",
+        "rect": {
+          "x": 15,
+          "y": -4600.734375,
+          "width": 360,
+          "height": 196.859375,
+          "top": -4600.734375,
+          "right": 375,
+          "bottom": -4403.875,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019\t\t\t\t\t",
+        "rect": {
+          "x": 15,
+          "y": -4171.375,
+          "width": 360,
+          "height": 196.453125,
+          "top": -4171.375,
+          "right": 375,
+          "bottom": -3974.921875,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22/05",
+        "rect": {
+          "x": 15,
+          "y": -3742.421875,
+          "width": 360,
+          "height": 196.859375,
+          "top": -3742.421875,
+          "right": 375,
+          "bottom": -3545.5625,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n\t\t\t\t\t",
+        "rect": {
+          "x": 15,
+          "y": -3313.0625,
+          "width": 360,
+          "height": 196.859375,
+          "top": -3313.0625,
+          "right": 375,
+          "bottom": -3116.203125,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 15,
+          "y": -2883.703125,
+          "width": 360,
+          "height": 196.859375,
+          "top": -2883.703125,
+          "right": 375,
+          "bottom": -2686.84375,
+          "left": 15
+        },
+        "font": "13.6px / 21.76px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 15,
+          "y": -2556.84375,
+          "width": 360,
+          "height": 96.125,
+          "top": -2556.84375,
+          "right": 375,
+          "bottom": -2460.71875,
+          "left": 15
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 30,
+          "y": -2554.84375,
+          "width": 330,
+          "height": 92.125,
+          "top": -2554.84375,
+          "right": 360,
+          "bottom": -2462.71875,
+          "left": 30
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 0,
+          "y": -1826.5625,
+          "width": 390,
+          "height": 46.0625,
+          "top": -1826.5625,
+          "right": 390,
+          "bottom": -1780.5,
+          "left": 0
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 30.0625,
+          "y": -1826.5625,
+          "width": 329.859375,
+          "height": 46.0625,
+          "top": -1826.5625,
+          "right": 359.921875,
+          "bottom": -1780.5,
+          "left": 30.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 15,
+          "y": -1447.109375,
+          "width": 360,
+          "height": 46.0625,
+          "top": -1447.109375,
+          "right": 375,
+          "bottom": -1401.046875,
+          "left": 15
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 134.265625,
+          "y": -1447.109375,
+          "width": 121.453125,
+          "height": 46.0625,
+          "top": -1447.109375,
+          "right": 255.71875,
+          "bottom": -1401.046875,
+          "left": 134.265625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 113,
+          "y": -560.796875,
+          "width": 320,
+          "height": 46.0625,
+          "top": -560.796875,
+          "right": 433,
+          "bottom": -514.734375,
+          "left": 113
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 141.8125,
+          "y": -560.796875,
+          "width": 262.359375,
+          "height": 46.0625,
+          "top": -560.796875,
+          "right": 404.171875,
+          "bottom": -514.734375,
+          "left": 141.8125
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 210,
+          "y": -103.203125,
+          "width": 165,
+          "height": 35.296875,
+          "top": -103.203125,
+          "right": 375,
+          "bottom": -67.90625,
+          "left": 210
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 210,
+          "y": -103.203125,
+          "width": 94.375,
+          "height": 37.296875,
+          "top": -103.203125,
+          "right": 304.375,
+          "bottom": -65.90625,
+          "left": 210
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 15,
+          "y": 518.078125,
+          "width": 165,
+          "height": 35.296875,
+          "top": 518.078125,
+          "right": 180,
+          "bottom": 553.375,
+          "left": 15
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 15,
+          "y": 518.078125,
+          "width": 67.28125,
+          "height": 37.296875,
+          "top": 518.078125,
+          "right": 82.28125,
+          "bottom": 555.375,
+          "left": 15
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 210,
+          "y": 518.078125,
+          "width": 165,
+          "height": 35.296875,
+          "top": 518.078125,
+          "right": 375,
+          "bottom": 553.375,
+          "left": 210
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 210,
+          "y": 518.078125,
+          "width": 65.140625,
+          "height": 37.296875,
+          "top": 518.078125,
+          "right": 275.140625,
+          "bottom": 555.375,
+          "left": 210
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "local390": {
+    "overflow": false,
+    "sections": [],
+    "geometry": [],
+    "brokenImages": [],
+    "errors": [
+      "./src/app/globals.css:2:1\nError: Parsing CSS source code failed\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nInvalid dangling combinator in selector\n\nGenerated code of PostCSS transform of file content of src/app/globals.css:\n./src/app/globals.css:2:1\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nImport trace:\n  Client Component Browser:\n    ./src/app/globals.css [Client Component Browser]\n    ./src/app/layout.tsx [Server Component]\n\n"
+    ]
+  },
+  "source1920": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "section mbws_banner-slider",
+        "height": 600
+      },
+      {
+        "name": "section mbws_about-home",
+        "height": 409.34375
+      },
+      {
+        "name": "section mbws_solutions_products",
+        "height": 1130.578125
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 565
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 525
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 525
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 585
+      },
+      {
+        "name": "section mbws_why-choose",
+        "height": 648.78125
+      },
+      {
+        "name": "section mbws_projects dark",
+        "height": 806.25
+      },
+      {
+        "name": "section mvbws_blogs",
+        "height": 1106.1875
+      },
+      {
+        "name": "section mbws_accede",
+        "height": 389.40625
+      },
+      {
+        "name": "section",
+        "height": 379.453125
+      },
+      {
+        "name": "section mbws_dangky",
+        "height": 706.265625
+      },
+      {
+        "name": "section mbws_contact-home dark",
+        "height": 457.59375
+      }
+    ],
+    "geometry": [
+      {
+        "text": "Đánh giá ADN  để cải thiện sức khỏe\n\t\t\n\n#text-2471033495 {\n ",
+        "rect": {
+          "x": 960,
+          "y": -8010.71875,
+          "width": 625,
+          "height": 230.71875,
+          "top": -8010.71875,
+          "right": 1585,
+          "bottom": -7780,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe\n\t\t\n\n#text-25",
+        "rect": {
+          "x": 2880,
+          "y": -8010.71875,
+          "width": 625,
+          "height": 230.71875,
+          "top": -8010.71875,
+          "right": 3505,
+          "bottom": -7780,
+          "left": 2880
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 558.328125,
+          "y": -7670,
+          "width": 803.328125,
+          "height": 37.421875,
+          "top": -7670,
+          "right": 1361.65625,
+          "bottom": -7632.578125,
+          "left": 558.328125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 887.53125,
+          "y": -7670,
+          "width": 144.921875,
+          "height": 37.421875,
+          "top": -7670,
+          "right": 1032.453125,
+          "bottom": -7632.578125,
+          "left": 887.53125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 350,
+          "y": -7260.65625,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -7260.65625,
+          "right": 1570,
+          "bottom": -7223.234375,
+          "left": 350
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 790.25,
+          "y": -7260.65625,
+          "width": 339.5,
+          "height": 37.421875,
+          "top": -7260.65625,
+          "right": 1129.75,
+          "bottom": -7223.234375,
+          "left": 790.25
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Hệ thống khí y tế",
+        "rect": {
+          "x": 335,
+          "y": -7154.84375,
+          "width": 625,
+          "height": 280,
+          "top": -7154.84375,
+          "right": 960,
+          "bottom": -6874.84375,
+          "left": 335
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống khí sạch",
+        "rect": {
+          "x": 960,
+          "y": -7154.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -7154.84375,
+          "right": 1272.5,
+          "bottom": -6874.84375,
+          "left": 960
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống báo gọi y tá",
+        "rect": {
+          "x": 1272.5,
+          "y": -7154.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -7154.84375,
+          "right": 1585,
+          "bottom": -6874.84375,
+          "left": 1272.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống chuyển mẫu",
+        "rect": {
+          "x": 335,
+          "y": -6874.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -6874.84375,
+          "right": 647.5,
+          "bottom": -6594.84375,
+          "left": 335
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống nội thất phòng mổ cao cấp",
+        "rect": {
+          "x": 647.5,
+          "y": -6874.84375,
+          "width": 625,
+          "height": 280,
+          "top": -6874.84375,
+          "right": 1272.5,
+          "bottom": -6594.84375,
+          "left": 647.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Sản phẩm bệnh viện",
+        "rect": {
+          "x": 1272.5,
+          "y": -6874.84375,
+          "width": 312.5,
+          "height": 280,
+          "top": -6874.84375,
+          "right": 1585,
+          "bottom": -6594.84375,
+          "left": 1272.5
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị phòng mổ",
+        "rect": {
+          "x": 335,
+          "y": -6594.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6594.84375,
+          "right": 751.65625,
+          "bottom": -6314.84375,
+          "left": 335
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị hồi sức cấp cứu",
+        "rect": {
+          "x": 751.65625,
+          "y": -6594.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6594.84375,
+          "right": 1168.3125,
+          "bottom": -6314.84375,
+          "left": 751.65625
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Khử khuẩn Tiệt trùng",
+        "rect": {
+          "x": 1168.3125,
+          "y": -6594.84375,
+          "width": 416.65625,
+          "height": 280,
+          "top": -6594.84375,
+          "right": 1584.96875,
+          "bottom": -6314.84375,
+          "left": 1168.3125
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Xem thêm",
+        "rect": {
+          "x": 335,
+          "y": -6314.84375,
+          "width": 1250,
+          "height": 84.765625,
+          "top": -6314.84375,
+          "right": 1585,
+          "bottom": -6230.078125,
+          "left": 335
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-1764",
+        "rect": {
+          "x": 350,
+          "y": -6104.203125,
+          "width": 580,
+          "height": 383.25,
+          "top": -6104.203125,
+          "right": 930,
+          "bottom": -5720.953125,
+          "left": 350
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 58px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1388320639 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 990,
+          "y": -6130.078125,
+          "width": 580,
+          "height": 435,
+          "top": -6130.078125,
+          "right": 1570,
+          "bottom": -5695.078125,
+          "left": 990
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_487158081 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 350,
+          "y": -5585.078125,
+          "width": 580,
+          "height": 435,
+          "top": -5585.078125,
+          "right": 930,
+          "bottom": -5150.078125,
+          "left": 350
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG\n\t\t\n\n#text-3",
+        "rect": {
+          "x": 990,
+          "y": -5561.578125,
+          "width": 580,
+          "height": 387.984375,
+          "top": -5561.578125,
+          "right": 1570,
+          "bottom": -5173.59375,
+          "left": 990
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 58px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-2310",
+        "rect": {
+          "x": 350,
+          "y": -5019.8125,
+          "width": 580,
+          "height": 354.46875,
+          "top": -5019.8125,
+          "right": 930,
+          "bottom": -4665.34375,
+          "left": 350
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 58px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_605552868 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 990,
+          "y": -5060.078125,
+          "width": 580,
+          "height": 435,
+          "top": -5060.078125,
+          "right": 1570,
+          "bottom": -4625.078125,
+          "left": 990
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1961431646 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 350,
+          "y": -4505.078125,
+          "width": 580,
+          "height": 435,
+          "top": -4505.078125,
+          "right": 930,
+          "bottom": -4070.078125,
+          "left": 350
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT\nBẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ\n\t\t\n\n",
+        "rect": {
+          "x": 990,
+          "y": -4431.21875,
+          "width": 580,
+          "height": 287.28125,
+          "top": -4431.21875,
+          "right": 1570,
+          "bottom": -4143.9375,
+          "left": 990
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 58px",
+        "margin": "0px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 350,
+          "y": -3900.078125,
+          "width": 803.328125,
+          "height": 37.421875,
+          "top": -3900.078125,
+          "right": 1153.328125,
+          "bottom": -3862.65625,
+          "left": 350
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 532.21875,
+          "y": -3900.078125,
+          "width": 438.875,
+          "height": 37.421875,
+          "top": -3900.078125,
+          "right": 971.09375,
+          "bottom": -3862.65625,
+          "left": 532.21875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 350,
+          "y": -3281.296875,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -3281.296875,
+          "right": 1570,
+          "bottom": -3243.875,
+          "left": 350
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 916.96875,
+          "y": -3281.296875,
+          "width": 86.0625,
+          "height": 37.421875,
+          "top": -3281.296875,
+          "right": 1003.03125,
+          "bottom": -3243.875,
+          "left": 916.96875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -3144.6875,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -3144.6875,
+          "right": 639.984375,
+          "bottom": -2659.8125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 639.984375,
+          "y": -3144.6875,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -3144.6875,
+          "right": 1279.96875,
+          "bottom": -2659.8125,
+          "left": 639.984375
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 1279.96875,
+          "y": -3144.6875,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -3144.6875,
+          "right": 1919.953125,
+          "bottom": -2659.8125,
+          "left": 1279.96875
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 639.984375,
+          "bottom": -2174.9375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 639.984375,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1279.96875,
+          "bottom": -2174.9375,
+          "left": 639.984375
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 1279.96875,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1919.953125,
+          "bottom": -2174.9375,
+          "left": 1279.96875
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 639.984375,
+          "bottom": -2174.9375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 639.984375,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1279.96875,
+          "bottom": -2174.9375,
+          "left": 639.984375
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 1279.96875,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1919.953125,
+          "bottom": -2174.9375,
+          "left": 1279.96875
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 639.984375,
+          "bottom": -2174.9375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 639.984375,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1279.96875,
+          "bottom": -2174.9375,
+          "left": 639.984375
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 1279.96875,
+          "y": -2659.8125,
+          "width": 639.984375,
+          "height": 484.875,
+          "top": -2659.8125,
+          "right": 1919.953125,
+          "bottom": -2174.9375,
+          "left": 1279.96875
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 350,
+          "y": -2475.046875,
+          "width": 1220,
+          "height": 37.421875,
+          "top": -2475.046875,
+          "right": 1570,
+          "bottom": -2437.625,
+          "left": 350
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 904.890625,
+          "y": -2475.046875,
+          "width": 110.203125,
+          "height": 37.421875,
+          "top": -2475.046875,
+          "right": 1015.09375,
+          "bottom": -2437.625,
+          "left": 904.890625
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 350,
+          "y": -2181.75,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -2181.75,
+          "right": 736.65625,
+          "bottom": -1964.046875,
+          "left": 350
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t\t\t\t\n\t",
+        "rect": {
+          "x": 766.65625,
+          "y": -2181.75,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -2181.75,
+          "right": 1153.3125,
+          "bottom": -1964.046875,
+          "left": 766.65625
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019\t\t\t\t\t",
+        "rect": {
+          "x": 1183.3125,
+          "y": -2181.75,
+          "width": 386.65625,
+          "height": 211.046875,
+          "top": -2181.75,
+          "right": 1569.96875,
+          "bottom": -1970.703125,
+          "left": 1183.3125
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22/05",
+        "rect": {
+          "x": 350,
+          "y": -1716.5625,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.5625,
+          "right": 736.65625,
+          "bottom": -1498.859375,
+          "left": 350
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n\t\t\t\t\t",
+        "rect": {
+          "x": 766.65625,
+          "y": -1716.5625,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.5625,
+          "right": 1153.3125,
+          "bottom": -1498.859375,
+          "left": 766.65625
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 1183.3125,
+          "y": -1716.5625,
+          "width": 386.65625,
+          "height": 217.703125,
+          "top": -1716.5625,
+          "right": 1569.96875,
+          "bottom": -1498.859375,
+          "left": 1183.3125
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 350,
+          "y": -1368.859375,
+          "width": 1220,
+          "height": 46.0625,
+          "top": -1368.859375,
+          "right": 1570,
+          "bottom": -1322.796875,
+          "left": 350
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 783.0625,
+          "y": -1368.859375,
+          "width": 353.875,
+          "height": 46.0625,
+          "top": -1368.859375,
+          "right": 1136.9375,
+          "bottom": -1322.796875,
+          "left": 783.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 350,
+          "y": -979.453125,
+          "width": 1220,
+          "height": 46.0625,
+          "top": -979.453125,
+          "right": 1570,
+          "bottom": -933.390625,
+          "left": 350
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 795.0625,
+          "y": -979.453125,
+          "width": 329.859375,
+          "height": 46.0625,
+          "top": -979.453125,
+          "right": 1124.921875,
+          "bottom": -933.390625,
+          "left": 795.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 350,
+          "y": -570,
+          "width": 595,
+          "height": 46.0625,
+          "top": -570,
+          "right": 945,
+          "bottom": -523.9375,
+          "left": 350
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 586.765625,
+          "y": -570,
+          "width": 121.453125,
+          "height": 46.0625,
+          "top": -570,
+          "right": 708.21875,
+          "bottom": -523.9375,
+          "left": 586.765625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 419,
+          "y": 106.265625,
+          "width": 330,
+          "height": 46.0625,
+          "top": 106.265625,
+          "right": 749,
+          "bottom": 152.328125,
+          "left": 419
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 452.8125,
+          "y": 106.265625,
+          "width": 262.359375,
+          "height": 46.0625,
+          "top": 106.265625,
+          "right": 715.171875,
+          "bottom": 152.328125,
+          "left": 452.8125
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 766.65625,
+          "y": 563.859375,
+          "width": 178.328125,
+          "height": 35.296875,
+          "top": 563.859375,
+          "right": 944.984375,
+          "bottom": 599.15625,
+          "left": 766.65625
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 766.65625,
+          "y": 563.859375,
+          "width": 94.375,
+          "height": 37.296875,
+          "top": 563.859375,
+          "right": 861.03125,
+          "bottom": 601.15625,
+          "left": 766.65625
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 974.984375,
+          "y": 563.859375,
+          "width": 282.5,
+          "height": 35.296875,
+          "top": 563.859375,
+          "right": 1257.484375,
+          "bottom": 599.15625,
+          "left": 974.984375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 974.984375,
+          "y": 563.859375,
+          "width": 67.28125,
+          "height": 37.296875,
+          "top": 563.859375,
+          "right": 1042.265625,
+          "bottom": 601.15625,
+          "left": 974.984375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 1287.484375,
+          "y": 563.859375,
+          "width": 282.5,
+          "height": 35.296875,
+          "top": 563.859375,
+          "right": 1569.984375,
+          "bottom": 599.15625,
+          "left": 1287.484375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 1287.484375,
+          "y": 563.859375,
+          "width": 65.140625,
+          "height": 37.296875,
+          "top": 563.859375,
+          "right": 1352.625,
+          "bottom": 601.15625,
+          "left": 1287.484375
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "local1920": {
+    "overflow": false,
+    "sections": [],
+    "geometry": [],
+    "brokenImages": [],
+    "errors": [
+      "./src/app/globals.css:2:1\nError: Parsing CSS source code failed\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nInvalid dangling combinator in selector\n\nGenerated code of PostCSS transform of file content of src/app/globals.css:\n./src/app/globals.css:2:1\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nImport trace:\n  Client Component Browser:\n    ./src/app/globals.css [Client Component Browser]\n    ./src/app/layout.tsx [Server Component]\n\n"
+    ]
+  },
+  "source768": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "section mbws_banner-slider",
+        "height": 400
+      },
+      {
+        "name": "section mbws_about-home",
+        "height": 486.125
+      },
+      {
+        "name": "section mbws_solutions_products",
+        "height": 1130.578125
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 568.703125
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 519.109375
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 499.921875
+      },
+      {
+        "name": "section mbws_solutions",
+        "height": 543.921875
+      },
+      {
+        "name": "section mbws_why-choose",
+        "height": 684.546875
+      },
+      {
+        "name": "section mbws_projects dark",
+        "height": 2064.046875
+      },
+      {
+        "name": "section mvbws_blogs",
+        "height": 3974.5625
+      },
+      {
+        "name": "section mbws_accede",
+        "height": 472.53125
+      },
+      {
+        "name": "section",
+        "height": 391.421875
+      },
+      {
+        "name": "section mbws_dangky",
+        "height": 886.3125
+      },
+      {
+        "name": "section mbws_contact-home dark",
+        "height": 457.59375
+      }
+    ],
+    "geometry": [
+      {
+        "text": "Đánh giá ADN  để cải thiện sức khỏe\n\t\t\n\n#text-3227727321 {\n ",
+        "rect": {
+          "x": 230.40625,
+          "y": -12515.46875,
+          "width": 537.59375,
+          "height": 210.46875,
+          "top": -12515.46875,
+          "right": 768,
+          "bottom": -12305,
+          "left": 230.40625
+        },
+        "font": "13.824px / 22.1184px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe\n\t\t\n\n#text-18",
+        "rect": {
+          "x": 998.40625,
+          "y": -12515.46875,
+          "width": 537.59375,
+          "height": 210.46875,
+          "top": -12515.46875,
+          "right": 1536,
+          "bottom": -12305,
+          "left": 998.40625
+        },
+        "font": "13.824px / 22.1184px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 143,
+          "y": -12215,
+          "width": 482,
+          "height": 37.421875,
+          "top": -12215,
+          "right": 625,
+          "bottom": -12177.578125,
+          "left": 143
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIỚI THIỆU",
+        "rect": {
+          "x": 311.53125,
+          "y": -12215,
+          "width": 144.921875,
+          "height": 37.421875,
+          "top": -12215,
+          "right": 456.453125,
+          "bottom": -12177.578125,
+          "left": 311.53125
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 15,
+          "y": -11728.875,
+          "width": 738,
+          "height": 37.421875,
+          "top": -11728.875,
+          "right": 753,
+          "bottom": -11691.453125,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "GIẢI PHÁP VÀ SẢN PHẨM",
+        "rect": {
+          "x": 214.25,
+          "y": -11728.875,
+          "width": 339.5,
+          "height": 37.421875,
+          "top": -11728.875,
+          "right": 553.75,
+          "bottom": -11691.453125,
+          "left": 214.25
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Hệ thống khí y tế",
+        "rect": {
+          "x": 0,
+          "y": -11623.0625,
+          "width": 384,
+          "height": 280,
+          "top": -11623.0625,
+          "right": 384,
+          "bottom": -11343.0625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống khí sạch",
+        "rect": {
+          "x": 384,
+          "y": -11623.0625,
+          "width": 192,
+          "height": 280,
+          "top": -11623.0625,
+          "right": 576,
+          "bottom": -11343.0625,
+          "left": 384
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống báo gọi y tá",
+        "rect": {
+          "x": 576,
+          "y": -11623.0625,
+          "width": 192,
+          "height": 280,
+          "top": -11623.0625,
+          "right": 768,
+          "bottom": -11343.0625,
+          "left": 576
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống chuyển mẫu",
+        "rect": {
+          "x": 0,
+          "y": -11343.0625,
+          "width": 192,
+          "height": 280,
+          "top": -11343.0625,
+          "right": 192,
+          "bottom": -11063.0625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Hệ thống nội thất phòng mổ cao cấp",
+        "rect": {
+          "x": 192,
+          "y": -11343.0625,
+          "width": 384,
+          "height": 280,
+          "top": -11343.0625,
+          "right": 576,
+          "bottom": -11063.0625,
+          "left": 192
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Sản phẩm bệnh viện",
+        "rect": {
+          "x": 576,
+          "y": -11343.0625,
+          "width": 192,
+          "height": 280,
+          "top": -11343.0625,
+          "right": 768,
+          "bottom": -11063.0625,
+          "left": 576
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị phòng mổ",
+        "rect": {
+          "x": 0,
+          "y": -11063.0625,
+          "width": 256,
+          "height": 280,
+          "top": -11063.0625,
+          "right": 256,
+          "bottom": -10783.0625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thiết bị hồi sức cấp cứu",
+        "rect": {
+          "x": 256,
+          "y": -11063.0625,
+          "width": 256,
+          "height": 280,
+          "top": -11063.0625,
+          "right": 512,
+          "bottom": -10783.0625,
+          "left": 256
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Khử khuẩn Tiệt trùng",
+        "rect": {
+          "x": 512,
+          "y": -11063.0625,
+          "width": 256,
+          "height": 280,
+          "top": -11063.0625,
+          "right": 768,
+          "bottom": -10783.0625,
+          "left": 512
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "Xem thêm",
+        "rect": {
+          "x": 0,
+          "y": -10783.0625,
+          "width": 768,
+          "height": 84.765625,
+          "top": -10783.0625,
+          "right": 768,
+          "bottom": -10698.296875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 15px 30px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-3288",
+        "rect": {
+          "x": 15,
+          "y": -10598.296875,
+          "width": 418,
+          "height": 438.703125,
+          "top": -10598.296875,
+          "right": 433,
+          "bottom": -10159.59375,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 20.8906px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_2090970568 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 463,
+          "y": -10487.703125,
+          "width": 290,
+          "height": 217.5,
+          "top": -10487.703125,
+          "right": 753,
+          "bottom": -10270.203125,
+          "left": 463
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1182254355 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -9943.796875,
+          "width": 290,
+          "height": 217.5,
+          "top": -9943.796875,
+          "right": 305,
+          "bottom": -9726.296875,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG\n\t\t\n\n#text-2",
+        "rect": {
+          "x": 335,
+          "y": -10049.59375,
+          "width": 418,
+          "height": 429.109375,
+          "top": -10049.59375,
+          "right": 753,
+          "bottom": -9620.484375,
+          "left": 335
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 20.8906px",
+        "margin": "0px"
+      },
+      {
+        "text": "CÁC GIẢI PHÁP CHO\nHỆ THỐNG KHÍ Y TẾ TRUNG TÂM\n\t\t\n\n#text-3437",
+        "rect": {
+          "x": 15,
+          "y": -9530.484375,
+          "width": 418,
+          "height": 409.921875,
+          "top": -9530.484375,
+          "right": 433,
+          "bottom": -9120.5625,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 20.8906px 0px 0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_321259166 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 463,
+          "y": -9434.28125,
+          "width": 290,
+          "height": 217.5,
+          "top": -9434.28125,
+          "right": 753,
+          "bottom": -9216.78125,
+          "left": 463
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "#image_1854323885 {\n  width: 100%;\n}",
+        "rect": {
+          "x": 15,
+          "y": -8936.359375,
+          "width": 354,
+          "height": 265.5,
+          "top": -8936.359375,
+          "right": 369,
+          "bottom": -8670.859375,
+          "left": 15
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px"
+      },
+      {
+        "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT\nBẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ\n\t\t\n\n",
+        "rect": {
+          "x": 399,
+          "y": -9000.5625,
+          "width": 354,
+          "height": 393.921875,
+          "top": -9000.5625,
+          "right": 753,
+          "bottom": -8606.640625,
+          "left": 399
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 0px 0px 17.6875px",
+        "margin": "0px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 15,
+          "y": -8436.640625,
+          "width": 546,
+          "height": 37.421875,
+          "top": -8436.640625,
+          "right": 561,
+          "bottom": -8399.21875,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TẠI SAO NÊN CHỌN CHÚNG TÔI ?",
+        "rect": {
+          "x": 68.5625,
+          "y": -8436.640625,
+          "width": 438.875,
+          "height": 37.421875,
+          "top": -8436.640625,
+          "right": 507.4375,
+          "bottom": -8399.21875,
+          "left": 68.5625
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 15,
+          "y": -7782.09375,
+          "width": 738,
+          "height": 37.421875,
+          "top": -7782.09375,
+          "right": 753,
+          "bottom": -7744.671875,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "DỰ ÁN",
+        "rect": {
+          "x": 340.96875,
+          "y": -7782.09375,
+          "width": 86.0625,
+          "height": 37.421875,
+          "top": -7782.09375,
+          "right": 427.03125,
+          "bottom": -7744.671875,
+          "left": 340.96875
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -7645.484375,
+          "width": 768,
+          "height": 580.890625,
+          "top": -7645.484375,
+          "right": 768,
+          "bottom": -7064.59375,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -7064.59375,
+          "width": 768,
+          "height": 580.890625,
+          "top": -7064.59375,
+          "right": 768,
+          "bottom": -6483.703125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -6483.703125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -6483.703125,
+          "right": 768,
+          "bottom": -5902.8125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5902.8125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5902.8125,
+          "right": 768,
+          "bottom": -5321.921875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5321.921875,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5321.921875,
+          "right": 768,
+          "bottom": -4741.03125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4741.03125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -4741.03125,
+          "right": 768,
+          "bottom": -4160.140625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5902.8125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5902.8125,
+          "right": 768,
+          "bottom": -5321.921875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5321.921875,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5321.921875,
+          "right": 768,
+          "bottom": -4741.03125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4741.03125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -4741.03125,
+          "right": 768,
+          "bottom": -4160.140625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Nguyễn Tri Phương",
+        "rect": {
+          "x": 0,
+          "y": -5902.8125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5902.8125,
+          "right": 768,
+          "bottom": -5321.921875,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viện Đa Khoa Xuyên Á",
+        "rect": {
+          "x": 0,
+          "y": -5321.921875,
+          "width": 768,
+          "height": 580.890625,
+          "top": -5321.921875,
+          "right": 768,
+          "bottom": -4741.03125,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "Bệnh viên Quốc tế Thảo Điền",
+        "rect": {
+          "x": 0,
+          "y": -4741.03125,
+          "width": 768,
+          "height": 580.890625,
+          "top": -4741.03125,
+          "right": 768,
+          "bottom": -4160.140625,
+          "left": 0
+        },
+        "font": "16px / 25.6px Roboto, sans-serif",
+        "padding": "0px 9.8px 19.6px",
+        "margin": "0px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 15,
+          "y": -5718.046875,
+          "width": 738,
+          "height": 37.421875,
+          "top": -5718.046875,
+          "right": 753,
+          "bottom": -5680.625,
+          "left": 15
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "TIN TỨC",
+        "rect": {
+          "x": 328.890625,
+          "y": -5718.046875,
+          "width": 110.203125,
+          "height": 37.421875,
+          "top": -5718.046875,
+          "right": 439.09375,
+          "bottom": -5680.625,
+          "left": 328.890625
+        },
+        "font": "700 28.8px / 37.44px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 15,
+          "y": -5227.109375,
+          "width": 738,
+          "height": 188,
+          "top": -5227.109375,
+          "right": 753,
+          "bottom": -5039.109375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t\t\t\t\n\t",
+        "rect": {
+          "x": 15,
+          "y": -4593.984375,
+          "width": 738,
+          "height": 188,
+          "top": -4593.984375,
+          "right": 753,
+          "bottom": -4405.984375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019\t\t\t\t\t",
+        "rect": {
+          "x": 15,
+          "y": -3960.859375,
+          "width": 738,
+          "height": 188,
+          "top": -3960.859375,
+          "right": 753,
+          "bottom": -3772.859375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t22/05",
+        "rect": {
+          "x": 15,
+          "y": -3327.734375,
+          "width": 738,
+          "height": 188,
+          "top": -3327.734375,
+          "right": 753,
+          "bottom": -3139.734375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n\t\t\t\t\t",
+        "rect": {
+          "x": 15,
+          "y": -2694.609375,
+          "width": 738,
+          "height": 188,
+          "top": -2694.609375,
+          "right": 753,
+          "bottom": -2506.609375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t\t\t\t22",
+        "rect": {
+          "x": 15,
+          "y": -2061.484375,
+          "width": 738,
+          "height": 188,
+          "top": -2061.484375,
+          "right": 753,
+          "bottom": -1873.484375,
+          "left": 15
+        },
+        "font": "14.4px / 23.04px Roboto, sans-serif",
+        "padding": "20px",
+        "margin": "0px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 15,
+          "y": -1743.484375,
+          "width": 738,
+          "height": 46.0625,
+          "top": -1743.484375,
+          "right": 753,
+          "bottom": -1697.421875,
+          "left": 15
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "HÃY GIA NHẬP CHÚNG TÔI",
+        "rect": {
+          "x": 207.0625,
+          "y": -1743.484375,
+          "width": 353.875,
+          "height": 46.0625,
+          "top": -1743.484375,
+          "right": 560.9375,
+          "bottom": -1697.421875,
+          "left": 207.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 0,
+          "y": -1270.953125,
+          "width": 768,
+          "height": 46.0625,
+          "top": -1270.953125,
+          "right": 768,
+          "bottom": -1224.890625,
+          "left": 0
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐỐI TÁC CỦA CHÚNG TÔI",
+        "rect": {
+          "x": 219.0625,
+          "y": -1270.953125,
+          "width": 329.859375,
+          "height": 46.0625,
+          "top": -1270.953125,
+          "right": 548.921875,
+          "bottom": -1224.890625,
+          "left": 219.0625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 15,
+          "y": -849.53125,
+          "width": 354,
+          "height": 46.0625,
+          "top": -849.53125,
+          "right": 369,
+          "bottom": -803.46875,
+          "left": 15
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "ĐĂNG KÝ",
+        "rect": {
+          "x": 131.265625,
+          "y": -849.53125,
+          "width": 121.453125,
+          "height": 46.0625,
+          "top": -849.53125,
+          "right": 252.71875,
+          "bottom": -803.46875,
+          "left": 131.265625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 188.59375,
+          "y": 6.78125,
+          "width": 330,
+          "height": 46.0625,
+          "top": 6.78125,
+          "right": 518.59375,
+          "bottom": 52.84375,
+          "left": 188.59375
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 14.4px"
+      },
+      {
+        "text": "THÔNG TIN LIÊN HỆ",
+        "rect": {
+          "x": 222.40625,
+          "y": 6.78125,
+          "width": 262.359375,
+          "height": 46.0625,
+          "top": 6.78125,
+          "right": 484.765625,
+          "bottom": 52.84375,
+          "left": 222.40625
+        },
+        "font": "700 28.8px / 46.08px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 15px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 271,
+          "y": 464.375,
+          "width": 98,
+          "height": 64.09375,
+          "top": 464.375,
+          "right": 369,
+          "bottom": 528.46875,
+          "left": 271
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "THÔNG TIN",
+        "rect": {
+          "x": 271,
+          "y": 464.375,
+          "width": 83,
+          "height": 66.09375,
+          "top": 464.375,
+          "right": 354,
+          "bottom": 530.46875,
+          "left": 271
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 399,
+          "y": 464.375,
+          "width": 162,
+          "height": 35.296875,
+          "top": 464.375,
+          "right": 561,
+          "bottom": 499.671875,
+          "left": 399
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "TIN MỚI",
+        "rect": {
+          "x": 399,
+          "y": 464.375,
+          "width": 67.28125,
+          "height": 37.296875,
+          "top": 464.375,
+          "right": 466.28125,
+          "bottom": 501.671875,
+          "left": 399
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 591,
+          "y": 464.375,
+          "width": 162,
+          "height": 35.296875,
+          "top": 464.375,
+          "right": 753,
+          "bottom": 499.671875,
+          "left": 591
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px",
+        "margin": "0px 0px 9px"
+      },
+      {
+        "text": "LIÊN HỆ",
+        "rect": {
+          "x": 591,
+          "y": 464.375,
+          "width": 65.140625,
+          "height": 37.296875,
+          "top": 464.375,
+          "right": 656.140625,
+          "bottom": 501.671875,
+          "left": 591
+        },
+        "font": "700 18px / 28.8px Roboto, sans-serif",
+        "padding": "0px 0px 7.5px",
+        "margin": "0px 15px -2px 0px"
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "local768": {
+    "overflow": false,
+    "sections": [],
+    "geometry": [],
+    "brokenImages": [],
+    "errors": [
+      "./src/app/globals.css:2:1\nError: Parsing CSS source code failed\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nInvalid dangling combinator in selector\n\nGenerated code of PostCSS transform of file content of src/app/globals.css:\n./src/app/globals.css:2:1\n  1 | ﻿/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */\n> 2 | @layer properties;\n    | ^\n  3 | @layer theme, base, components, utilities;\n  4 | @layer theme {\n  5 |   :root, :host {\n\nImport trace:\n  Client Component Browser:\n    ./src/app/globals.css [Client Component Browser]\n    ./src/app/layout.tsx [Server Component]\n\n"
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "routesChecked": 71,
+  "paths": [
+    "/",
+    "/gioi-thieu/",
+    "/lien-he/",
+    "/author/system/",
+    "/videomed/",
+    "/trumpfmedical/",
+    "/therapixel/",
+    "/swisslog/",
+    "/starkstrom/",
+    "/phillips-healthcare/",
+    "/pahsco/",
+    "/lm-media/",
+    "/ht-group/",
+    "/beacon-medaes-atlas-copco/",
+    "/austco/",
+    "/ata/",
+    "/arjo/",
+    "/cac-san-pham-phan-phoi-theo-hang-san-xuat/",
+    "/san-vinyl-tay-vin-cho-benh-vien/",
+    "/thiet-bi-san-nhi/",
+    "/thiet-bi-cham-soc-benh-nhan/",
+    "/san-pham-khu-khuan-tiet-trung/",
+    "/thiet-bi-hoi-suc-cap-cuu/",
+    "/thiet-bi-phong-mo/",
+    "/cac-san-pham-dung-cho-benh-vien/",
+    "/he-thong-noi-that-phong-mo-cao-cap/",
+    "/he-thong-chuyen-mau-benh-pham/",
+    "/he-thong-bao-goi-y-ta/",
+    "/he-thong-khi-sach/",
+    "/he-thong-khi-y-te/",
+    "/benh-vien-nguyen-tri-phuong/",
+    "/benh-vien-da-khoa-xuyen-a/",
+    "/benh-vien-quoc-te-thao-dien/",
+    "/benh-vien-da-khoa-gia-dinh-da-nang/",
+    "/benh-vien-sai-gon-ito/",
+    "/benh-vien-hoa-lam/",
+    "/benh-vien-da-khoa-quoc-te-tan-hung/",
+    "/benh-vien-cap-cuu-trung-vuong/",
+    "/benh-vien-chuyen-khoa-san-nhi-long-an/",
+    "/benh-vien-tu-du/",
+    "/benh-vien-trung-uong-quan-doi-108/",
+    "/benh-vien-nhi-dong-thanh-pho/",
+    "/21-nguyen-tac-de-hoan-thanh-cong-viec-hieu-qua/",
+    "/thai-do-tich-cuc-quyet-dinh-thanh-cong-cua-moi-nguoi/",
+    "/ap-dung-5s-vao-van-phong-lam-viec/",
+    "/len-ke-hoach-cho-mot-ngay-lam-viec-hieu-qua/",
+    "/quan-ly-thoi-gian-hieu-qua-va-nang-cao-nang-suat/",
+    "/phan-tich-swot-ban-than-de-cai-thien-su-nghiep/",
+    "/cac-ky-su-medical-hoan-thanh-khoa-dao-tao-ve-he-thong-thiet-bi-phong-mo/",
+    "/medical-cung-cap-he-thong-monitor-trung-tam-tai-bv-nhi-dong-tp-hcm/",
+    "/medical-nhan-giai-thuong-thuong-hieu-hang-dau-topbrand-2016/",
+    "/medical-ho-tro-benh-nhan-co-hoan-canh-kho-khan-tai-bv-nhi-dong-tphcm/",
+    "/hello-everybody/",
+    "/hello-world/",
+    "/category/tin-tuc/ban-tin-medical/",
+    "/category/tin-tuc/ban-tin-y-khoa/",
+    "/category/du-an/benh-vien-nha-nuoc/",
+    "/category/du-an/benh-vien-tu-nhan/",
+    "/category/blogs/",
+    "/category/chua-duoc-phan-loai/",
+    "/category/du-an/",
+    "/category/du-an/page/2/",
+    "/category/tin-tuc/ky-nang-cong-viec/",
+    "/category/san-pham/",
+    "/category/san-pham/page/2/",
+    "/category/tin-tuc/thong-bao/",
+    "/category/thuong-hieu/",
+    "/category/thuong-hieu/page/2/",
+    "/category/tin-tuc/",
+    "/category/tuyen-dung/",
+    "/category/uncategorized/"
+  ],
+  "failures": [],
+  "sourcePageLinks": [],
+  "views": [
+    {
+      "pathname": "/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Đánh giá ADN để cải thiện sức khỏe"
+    },
+    {
+      "pathname": "/gioi-thieu/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Giới thiệu"
+    },
+    {
+      "pathname": "/lien-he/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "pathname": "/category/san-pham/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Sản phẩm"
+    },
+    {
+      "pathname": "/category/san-pham/page/2/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Sản phẩm"
+    },
+    {
+      "pathname": "/category/du-an/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Dự án"
+    },
+    {
+      "pathname": "/category/tin-tuc/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Tin tức"
+    },
+    {
+      "pathname": "/category/tuyen-dung/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Tuyển dụng"
+    },
+    {
+      "pathname": "/he-thong-khi-y-te/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Hệ thống khí y tế"
+    },
+    {
+      "pathname": "/benh-vien-nguyen-tri-phuong/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Bệnh viện Nguyễn Tri Phương"
+    },
+    {
+      "pathname": "/21-nguyen-tac-de-hoan-thanh-cong-viec-hieu-qua/",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "21 nguyên tắc để hoàn thành công việc hiệu quả"
+    },
+    {
+      "pathname": "/?s=kh%C3%AD+y+t%E1%BA%BF",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Kết quả tìm kiếm cho: khí y tế"
+    },
+    {
+      "pathname": "/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Đánh giá ADN để cải thiện sức khỏe"
+    },
+    {
+      "pathname": "/gioi-thieu/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Giới thiệu"
+    },
+    {
+      "pathname": "/lien-he/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "pathname": "/category/san-pham/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Sản phẩm"
+    },
+    {
+      "pathname": "/category/san-pham/page/2/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Sản phẩm"
+    },
+    {
+      "pathname": "/category/du-an/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Dự án"
+    },
+    {
+      "pathname": "/category/tin-tuc/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Tin tức"
+    },
+    {
+      "pathname": "/category/tuyen-dung/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Tuyển dụng"
+    },
+    {
+      "pathname": "/he-thong-khi-y-te/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Hệ thống khí y tế"
+    },
+    {
+      "pathname": "/benh-vien-nguyen-tri-phuong/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Bệnh viện Nguyễn Tri Phương"
+    },
+    {
+      "pathname": "/21-nguyen-tac-de-hoan-thanh-cong-viec-hieu-qua/",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "21 nguyên tắc để hoàn thành công việc hiệu quả"
+    },
+    {
+      "pathname": "/?s=kh%C3%AD+y+t%E1%BA%BF",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "brokenImages": [],
+      "title": "Kết quả tìm kiếm cho: khí y tế"
+    }
+  ],
+  "interactions": "Desktop navigation, archive pagination, article detail, comment validation/save, search empty state, mobile navigation passed"
+}

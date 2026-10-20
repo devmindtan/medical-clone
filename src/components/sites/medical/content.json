@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "title": "Hệ thống khí y tế",
+      "image": "/sites/medical/mbws-img01-1.jpg",
+      "class": "col medium-6 small-12 large-6"
+    },
+    {
+      "title": "Hệ thống khí sạch",
+      "image": "/sites/medical/mbws-img5-1.jpg",
+      "class": "col medium-3 small-12 large-3"
+    },
+    {
+      "title": "Hệ thống báo gọi y tá",
+      "image": "/sites/medical/mbws-img02-1.jpg",
+      "class": "col medium-3 small-12 large-3"
+    },
+    {
+      "title": "Hệ thống chuyển mẫu",
+      "image": "/sites/medical/mbws-img30.jpg",
+      "class": "col medium-3 small-12 large-3"
+    },
+    {
+      "title": "Hệ thống nội thất phòng mổ cao cấp",
+      "image": "/sites/medical/mbws-img04.jpg",
+      "class": "col medium-6 small-12 large-6"
+    },
+    {
+      "title": "Sản phẩm bệnh viện",
+      "image": "/sites/medical/mbws-img1-13.jpg",
+      "class": "col medium-3 small-12 large-3"
+    },
+    {
+      "title": "Thiết bị phòng mổ",
+      "image": "/sites/medical/mbws-img05.jpg",
+      "class": "col medium-4 small-12 large-4"
+    },
+    {
+      "title": "Thiết bị hồi sức cấp cứu",
+      "image": "/sites/medical/mbws-img03-1.jpg",
+      "class": "col medium-4 small-12 large-4"
+    },
+    {
+      "title": "Khử khuẩn Tiệt trùng",
+      "image": "/sites/medical/mbws-img06.jpg",
+      "class": "col medium-4 small-12 large-4"
+    }
+  ],
+  "services": [
+    {
+      "eyebrow": "CÁC GIẢI PHÁP CHO",
+      "title": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "items": [
+        "Tư vấn thiết kế hệ thống Khí Y tế trung tâm theo tiêu chuẩn HTM, NFPA",
+        "Thực hiện các bản vẽ thiết kế & hoàn công",
+        "Quản lý & Giám sát thi công",
+        "Kiểm tra chất lượng thi công & chất lượng khí cung cấp",
+        "Bảo trì hệ thống",
+        "Đào tạo thiết kế, lắp đặt & bảo trì hệ thống"
+      ],
+      "image": "/sites/medical/mbws-img08-1.png"
+    },
+    {
+      "eyebrow": "CÁC GIẢI PHÁP CHO",
+      "title": "HỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG",
+      "items": [
+        "Tư vấn thiết kế hệ thống khí sạch áp lực dương",
+        "Tư vấn lựa chọn thiết bị cung cấp & thông số kỹ thuật phù hợp",
+        "Thi công lắp đặt hệ thống khí sạch áp lực dương cho Phòng mổ, Phòng hồi sức tích cực, phòng ghép tủy …",
+        "Tư vấn & cung cấp dịch vụ kiểm tra chất lượng phòng sạch",
+        "Dịch vụ bảo trì hệ thống khí sạch áp lực dương"
+      ],
+      "image": "/sites/medical/mbws-img09-2.png"
+    },
+    {
+      "eyebrow": "CÁC GIẢI PHÁP CHO",
+      "title": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "items": [
+        "Tư vấn thiết kế, cung cấp, thi công hoàn thiện Hệ thống nội thất phòng mổ & ICU",
+        "Tư vấn thiết kế các hệ thống đèn mổ, cánh tay treo trần, bàn mổ, hệ thống Audio-Video/camera cho phòng mổ, hệ thống quản lý nguồn & thông tin phòng mổ.",
+        "Tư vấn thiết kế các giải pháp thiết bị & nội thất cho phòng Hồi sức tích cực."
+      ],
+      "image": "/sites/medical/mbws-img4-1-1.jpg"
+    },
+    {
+      "eyebrow": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT",
+      "title": "BẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ",
+      "items": [
+        "Tư vấn lựa chọn thiết bị y tế",
+        "Cung cấp dịch vụ lắp đặt, hướng dẫn sử dụng các thiết bị y tế",
+        "Cung cấp dịch vụ sửa chữa, bảo trì thiết bị y tế",
+        "Cung cấp các chương trình đào tạo chuyên sâu"
+      ],
+      "image": "/sites/medical/mbws-img11-1.jpg"
+    }
+  ],
+  "news": [
+    {
+      "title": "21 nguyên tắc để hoàn thành công việc hiệu quả",
+      "href": "/21-nguyen-tac-de-hoan-thanh-cong-viec-hieu-qua/",
+      "image": "/sites/medical/eat-that-frog-300x176.jpg",
+      "excerpt": "Cuốn Eat That Frog - 21 Great Ways to Stop Procrastinating and Get More Done [...]"
+    },
+    {
+      "title": "Thái độ tích cực quyết định thành công của mỗi người",
+      "href": "/thai-do-tich-cuc-quyet-dinh-thanh-cong-cua-moi-nguoi/",
+      "image": "/sites/medical/yes-i-did-it-300x211.jpg",
+      "excerpt": "Theo nhà tâm lý học Sydney Jourard, quan điểm và tính cách cá nhân quyết [...]"
+    },
+    {
+      "title": "Áp dụng 5S vào văn phòng làm việc",
+      "href": "/ap-dung-5s-vao-van-phong-lam-viec/",
+      "image": "/sites/medical/5s-word-300x220.jpg",
+      "excerpt": "Phương pháp 5S là một công cụ quan trọng, không thể thiếu trong bất kỳ [...]"
+    },
+    {
+      "title": "Lên kế hoạch cho một ngày làm việc hiệu quả",
+      "href": "/len-ke-hoach-cho-mot-ngay-lam-viec-hieu-qua/",
+      "image": "/sites/medical/plan-300x188.jpg",
+      "excerpt": "Lên kế hoạch cho một ngày làm việc hiệu quả Ở nơi làm việc, việc [...]"
+    },
+    {
+      "title": "Quản lý thời gian hiệu quả và nâng cao năng suất",
+      "href": "/quan-ly-thoi-gian-hieu-qua-va-nang-cao-nang-suat/",
+      "image": "/sites/medical/time-to-plan-300x148.jpg",
+      "excerpt": "Vận động viên karate đai đen không trở thành đai đen bằng cách thực hành [...]"
+    },
+    {
+      "title": "Phân tích SWOT bản thân để cải thiện sự nghiệp",
+      "href": "/phan-tich-swot-ban-than-de-cai-thien-su-nghiep/",
+      "image": "/sites/medical/swot-analysis-300x200.png",
+      "excerpt": "Phân tích SWOT được phát minh như một công cụ kinh doanh vào những năm [...]"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Bệnh viện Nguyễn Tri Phương",
+      "href": "/benh-vien-nguyen-tri-phuong/",
+      "image": "/sites/medical/bv-nguyen-tri-phuong.jpg"
+    },
+    {
+      "title": "Bệnh viện Đa Khoa Xuyên Á",
+      "href": "/benh-vien-da-khoa-xuyen-a/",
+      "image": "/sites/medical/bv-dk-xuyen-a-2.jpg"
+    },
+    {
+      "title": "Bệnh viên Quốc tế Thảo Điền",
+      "href": "/benh-vien-quoc-te-thao-dien/",
+      "image": "/sites/medical/bv-thao-dien.jpg"
+    },
+    {
+      "title": "Bệnh viện Nguyễn Tri Phương",
+      "href": "/benh-vien-nguyen-tri-phuong/",
+      "image": "/sites/medical/bv-nguyen-tri-phuong.jpg"
+    },
+    {
+      "title": "Bệnh viện Đa Khoa Xuyên Á",
+      "href": "/benh-vien-da-khoa-xuyen-a/",
+      "image": "/sites/medical/bv-dk-xuyen-a-2.jpg"
+    },
+    {
+      "title": "Bệnh viên Quốc tế Thảo Điền",
+      "href": "/benh-vien-quoc-te-thao-dien/",
+      "image": "/sites/medical/bv-thao-dien.jpg"
+    },
+    {
+      "title": "Bệnh viện Nguyễn Tri Phương",
+      "href": "/benh-vien-nguyen-tri-phuong/",
+      "image": "/sites/medical/bv-nguyen-tri-phuong.jpg"
+    },
+    {
+      "title": "Bệnh viện Đa Khoa Xuyên Á",
+      "href": "/benh-vien-da-khoa-xuyen-a/",
+      "image": "/sites/medical/bv-dk-xuyen-a-2.jpg"
+    },
+    {
+      "title": "Bệnh viên Quốc tế Thảo Điền",
+      "href": "/benh-vien-quoc-te-thao-dien/",
+      "image": "/sites/medical/bv-thao-dien.jpg"
+    },
+    {
+      "title": "Bệnh viện Nguyễn Tri Phương",
+      "href": "/benh-vien-nguyen-tri-phuong/",
+      "image": "/sites/medical/bv-nguyen-tri-phuong.jpg"
+    },
+    {
+      "title": "Bệnh viện Đa Khoa Xuyên Á",
+      "href": "/benh-vien-da-khoa-xuyen-a/",
+      "image": "/sites/medical/bv-dk-xuyen-a-2.jpg"
+    },
+    {
+      "title": "Bệnh viên Quốc tế Thảo Điền",
+      "href": "/benh-vien-quoc-te-thao-dien/",
+      "image": "/sites/medical/bv-thao-dien.jpg"
+    }
+  ],
+  "partners": [
+    "/sites/medical/mbws-img6-300x225.png",
+    "/sites/medical/mbws-img5-300x225.png",
+    "/sites/medical/mbws-img4-300x225.png",
+    "/sites/medical/mbws-img3-300x225.png",
+    "/sites/medical/mbws-img7-300x225.png",
+    "/sites/medical/mbws-img5-1-300x225.png",
+    "/sites/medical/mbws-img3-1-300x225.png",
+    "/sites/medical/mbws-img4-1-300x225.png",
+    "/sites/medical/mbws-img1-1-300x225.png",
+    "/sites/medical/mbws-img2-3-300x225.png",
+    "/sites/medical/mbws-img6-1-300x225.png"
+  ],
+  "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.096088879016!2d106.64334177570353!3d10.803952258684074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752945ef194f0b%3A0xccccf0c04e79cac1!2zNTQgxJAuIEMxLCBQaMaw4budbmcgMTMsIFTDom4gQsOsbmgsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1709097692535!5m2!1svi!2s"
+}

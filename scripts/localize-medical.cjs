@@ -1,0 +1,20 @@
+/* eslint-disable @typescript-eslint/no-require-imports */
+const fs = require('fs');
+const file = 'src/components/sites/medical/MedicalHome.tsx';
+let source = fs.readFileSync(file, 'utf8');
+source = source.replace('import Link from "next/link";', 'import Link from "next/link";\nimport { usePathname } from "next/navigation";');
+source = source.replace('const origin = "https://0141.matbao.website";', 'const origin = "";');
+source = source.replace('function Header() {', 'export function Header() {\n  const pathname = usePathname();\n  const activeIndex = pathname.startsWith("/category/san-pham") ? 2 : pathname.startsWith("/category/du-an") ? 3 : pathname.startsWith("/category/tin-tuc") ? 4 : pathname.startsWith("/category/tuyen-dung") ? 5 : navigation.findIndex(([, href]) => href === pathname || href === pathname + "/");');
+source = source.replace('className={i === 0 ? "active" : ""}', 'className={i === activeIndex ? "active" : ""}');
+source = source.replace('function ContactForm()', 'export function ContactForm()');
+source = source.replace('function SectionTitle(', 'export function SectionTitle(');
+const start = source.indexOf('  return <><section className="contact-map">', source.indexOf('function Footer()'));
+const end = source.indexOf('<footer>', start);
+if (start < 0 || end < 0) throw new Error('Footer extraction did not match');
+const map = source.slice(start + '  return <>'.length, end);
+source = source.slice(0, start) + '  return <>{includeMap && <ContactMap />}' + source.slice(end);
+source = source.replace('function Footer() {', 'export function ContactMap() {\n  return ' + map + ';\n}\n\nexport function Footer({ includeMap = true }: { includeMap?: boolean }) {');
+fs.writeFileSync(file, source);
+const content = 'src/components/sites/medical/content.json';
+fs.writeFileSync(content, fs.readFileSync(content, 'utf8').replaceAll('https://0141.matbao.website', ''));
+console.log('Shared header, footer, contact sections exported; source links localized');

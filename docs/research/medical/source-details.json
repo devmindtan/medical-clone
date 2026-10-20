@@ -1,0 +1,3426 @@
+{
+  "390": [
+    {
+      "selector": "",
+      "tag": "H3",
+      "text": "Đánh giá ADN  để cải thiện sức khỏe",
+      "rect": {
+        "x": 99,
+        "y": 290.15625,
+        "width": 231,
+        "height": 57.1875,
+        "top": 290.15625,
+        "right": 330,
+        "bottom": 347.34375,
+        "left": 99
+      },
+      "font": "22px / 28.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "4.4px 0px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 241.109375,
+        "y": 357.0625,
+        "width": 88.890625,
+        "height": 27.609375,
+        "top": 357.0625,
+        "right": 330,
+        "bottom": 384.671875,
+        "left": 241.109375
+      },
+      "font": "700 10.67px / 25.608px Roboto, sans-serif",
+      "padding": "0px 12.804px",
+      "margin": "5.335px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H3",
+      "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe",
+      "rect": {
+        "x": 489,
+        "y": 261.5625,
+        "width": 231,
+        "height": 85.78125,
+        "top": 261.5625,
+        "right": 720,
+        "bottom": 347.34375,
+        "left": 489
+      },
+      "font": "22px / 28.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "4.4px 0px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 631.109375,
+        "y": 357.0625,
+        "width": 88.890625,
+        "height": 27.609375,
+        "top": 357.0625,
+        "right": 720,
+        "bottom": 384.671875,
+        "left": 631.109375
+      },
+      "font": "700 10.67px / 25.608px Roboto, sans-serif",
+      "padding": "0px 12.804px",
+      "margin": "5.335px 0px"
+    },
+    {
+      "selector": "button primary lowercase",
+      "tag": "A",
+      "text": "Xem chi tiết",
+      "rect": {
+        "x": 124.390625,
+        "y": 898.140625,
+        "width": 141.203125,
+        "height": 39.25,
+        "top": 898.140625,
+        "right": 265.59375,
+        "bottom": 937.390625,
+        "left": 124.390625
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 15,
+        "y": 4234.90625,
+        "width": 360,
+        "height": 17.125,
+        "top": 4234.90625,
+        "right": 375,
+        "bottom": 4252.03125,
+        "left": 15
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "rect": {
+        "x": 15,
+        "y": 4260.1875,
+        "width": 360,
+        "height": 29.953125,
+        "top": 4260.1875,
+        "right": 375,
+        "bottom": 4290.140625,
+        "left": 15
+      },
+      "font": "700 23.04px / 29.952px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 11.52px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế hệ thống Khí Y tế trung tâm theo tiêu c",
+      "rect": {
+        "x": 35.796875,
+        "y": 4301.65625,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 4301.65625,
+        "right": 375,
+        "bottom": 4352.84375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Thực hiện các bản vẽ thiết kế & hoàn công",
+      "rect": {
+        "x": 35.796875,
+        "y": 4362.4375,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 4362.4375,
+        "right": 375,
+        "bottom": 4388.03125,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Quản lý & Giám sát thi công",
+      "rect": {
+        "x": 35.796875,
+        "y": 4397.625,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 4397.625,
+        "right": 375,
+        "bottom": 4423.21875,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Kiểm tra chất lượng thi công & chất lượng khí cung cấp",
+      "rect": {
+        "x": 35.796875,
+        "y": 4432.8125,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 4432.8125,
+        "right": 375,
+        "bottom": 4484,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Bảo trì hệ thống",
+      "rect": {
+        "x": 35.796875,
+        "y": 4493.59375,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 4493.59375,
+        "right": 375,
+        "bottom": 4519.1875,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Đào tạo thiết kế, lắp đặt & bảo trì hệ thống",
+      "rect": {
+        "x": 35.796875,
+        "y": 4528.78125,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 4528.78125,
+        "right": 375,
+        "bottom": 4554.375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 15,
+        "y": 4575.171875,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 4575.171875,
+        "right": 158.109375,
+        "bottom": 4614.421875,
+        "left": 15
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 15,
+        "y": 5039.9375,
+        "width": 360,
+        "height": 17.125,
+        "top": 5039.9375,
+        "right": 375,
+        "bottom": 5057.0625,
+        "left": 15
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG",
+      "rect": {
+        "x": 15,
+        "y": 5065.21875,
+        "width": 360,
+        "height": 59.90625,
+        "top": 5065.21875,
+        "right": 375,
+        "bottom": 5125.125,
+        "left": 15
+      },
+      "font": "700 23.04px / 29.952px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 11.52px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế hệ thống khí sạch áp lực dương",
+      "rect": {
+        "x": 35.796875,
+        "y": 5136.640625,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 5136.640625,
+        "right": 375,
+        "bottom": 5162.234375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn lựa chọn thiết bị cung cấp & thông số kỹ thuật p",
+      "rect": {
+        "x": 35.796875,
+        "y": 5171.828125,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 5171.828125,
+        "right": 375,
+        "bottom": 5223.015625,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Thi công lắp đặt hệ thống khí sạch áp lực dương cho Phò",
+      "rect": {
+        "x": 35.796875,
+        "y": 5232.609375,
+        "width": 339.203125,
+        "height": 76.78125,
+        "top": 5232.609375,
+        "right": 375,
+        "bottom": 5309.390625,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn & cung cấp dịch vụ kiểm tra chất lượng phòng sạc",
+      "rect": {
+        "x": 35.796875,
+        "y": 5318.984375,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 5318.984375,
+        "right": 375,
+        "bottom": 5370.171875,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Dịch vụ bảo trì hệ thống khí sạch áp lực dương",
+      "rect": {
+        "x": 35.796875,
+        "y": 5379.765625,
+        "width": 339.203125,
+        "height": 25.59375,
+        "top": 5379.765625,
+        "right": 375,
+        "bottom": 5405.359375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 15,
+        "y": 5426.15625,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 5426.15625,
+        "right": 158.109375,
+        "bottom": 5465.40625,
+        "left": 15
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 15,
+        "y": 5870.921875,
+        "width": 360,
+        "height": 17.125,
+        "top": 5870.921875,
+        "right": 375,
+        "bottom": 5888.046875,
+        "left": 15
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "rect": {
+        "x": 15,
+        "y": 5896.203125,
+        "width": 360,
+        "height": 29.953125,
+        "top": 5896.203125,
+        "right": 375,
+        "bottom": 5926.15625,
+        "left": 15
+      },
+      "font": "700 23.04px / 29.952px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 11.52px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế, cung cấp, thi công hoàn thiện Hệ thống",
+      "rect": {
+        "x": 35.796875,
+        "y": 5937.671875,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 5937.671875,
+        "right": 375,
+        "bottom": 5988.859375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế các hệ thống đèn mổ, cánh tay treo trần",
+      "rect": {
+        "x": 35.796875,
+        "y": 5998.453125,
+        "width": 339.203125,
+        "height": 102.375,
+        "top": 5998.453125,
+        "right": 375,
+        "bottom": 6100.828125,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế các giải pháp thiết bị & nội thất cho p",
+      "rect": {
+        "x": 35.796875,
+        "y": 6110.421875,
+        "width": 339.203125,
+        "height": 51.1875,
+        "top": 6110.421875,
+        "right": 375,
+        "bottom": 6161.609375,
+        "left": 35.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 15,
+        "y": 6182.40625,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 6182.40625,
+        "right": 158.109375,
+        "bottom": 6221.65625,
+        "left": 15
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT",
+      "rect": {
+        "x": 33,
+        "y": 6657.171875,
+        "width": 342,
+        "height": 17.125,
+        "top": 6657.171875,
+        "right": 375,
+        "bottom": 6674.296875,
+        "left": 33
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "BẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ",
+      "rect": {
+        "x": 33,
+        "y": 6682.453125,
+        "width": 342,
+        "height": 59.90625,
+        "top": 6682.453125,
+        "right": 375,
+        "bottom": 6742.359375,
+        "left": 33
+      },
+      "font": "700 23.04px / 29.952px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 11.52px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn lựa chọn thiết bị y tế",
+      "rect": {
+        "x": 53.796875,
+        "y": 6753.875,
+        "width": 321.203125,
+        "height": 25.59375,
+        "top": 6753.875,
+        "right": 375,
+        "bottom": 6779.46875,
+        "left": 53.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp dịch vụ lắp đặt, hướng dẫn sử dụng các thiết b",
+      "rect": {
+        "x": 53.796875,
+        "y": 6789.0625,
+        "width": 321.203125,
+        "height": 51.1875,
+        "top": 6789.0625,
+        "right": 375,
+        "bottom": 6840.25,
+        "left": 53.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp dịch vụ sửa chữa, bảo trì thiết bị y tế",
+      "rect": {
+        "x": 53.796875,
+        "y": 6849.84375,
+        "width": 321.203125,
+        "height": 51.1875,
+        "top": 6849.84375,
+        "right": 375,
+        "bottom": 6901.03125,
+        "left": 53.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp các chương trình đào tạo chuyên sâu",
+      "rect": {
+        "x": 53.796875,
+        "y": 6910.625,
+        "width": 321.203125,
+        "height": 51.1875,
+        "top": 6910.625,
+        "right": 375,
+        "bottom": 6961.8125,
+        "left": 53.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 33,
+        "y": 6982.609375,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 6982.609375,
+        "right": 176.109375,
+        "bottom": 7021.859375,
+        "left": 33
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 8339.65625,
+        "width": 390,
+        "height": 297.390625,
+        "top": 8339.65625,
+        "right": 390,
+        "bottom": 8637.046875,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 0,
+        "y": 8637.046875,
+        "width": 390,
+        "height": 297.390625,
+        "top": 8637.046875,
+        "right": 390,
+        "bottom": 8934.4375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 0,
+        "y": 8934.4375,
+        "width": 390,
+        "height": 297.390625,
+        "top": 8934.4375,
+        "right": 390,
+        "bottom": 9231.828125,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 9231.828125,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9231.828125,
+        "right": 390,
+        "bottom": 9529.21875,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 0,
+        "y": 9529.21875,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9529.21875,
+        "right": 390,
+        "bottom": 9826.609375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 0,
+        "y": 9826.609375,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9826.609375,
+        "right": 390,
+        "bottom": 10124,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 9231.828125,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9231.828125,
+        "right": 390,
+        "bottom": 9529.21875,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 0,
+        "y": 9529.21875,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9529.21875,
+        "right": 390,
+        "bottom": 9826.609375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 0,
+        "y": 9826.609375,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9826.609375,
+        "right": 390,
+        "bottom": 10124,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 9231.828125,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9231.828125,
+        "right": 390,
+        "bottom": 9529.21875,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 0,
+        "y": 9529.21875,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9529.21875,
+        "right": 390,
+        "bottom": 9826.609375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 0,
+        "y": 9826.609375,
+        "width": 390,
+        "height": 297.390625,
+        "top": 9826.609375,
+        "right": 390,
+        "bottom": 10124,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t",
+      "rect": {
+        "x": 15,
+        "y": 9694.90625,
+        "width": 360,
+        "height": 196.859375,
+        "top": 9694.90625,
+        "right": 375,
+        "bottom": 9891.765625,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "21 nguyên tắc để hoàn thành công việc hiệu quả",
+      "rect": {
+        "x": 35,
+        "y": 9716.53125,
+        "width": 320,
+        "height": 42.40625,
+        "top": 9716.53125,
+        "right": 355,
+        "bottom": 9758.9375,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 9837.765625,
+        "width": 100.203125,
+        "height": 34,
+        "top": 9837.765625,
+        "right": 135.203125,
+        "bottom": 9871.765625,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t",
+      "rect": {
+        "x": 15,
+        "y": 10124.265625,
+        "width": 360,
+        "height": 196.859375,
+        "top": 10124.265625,
+        "right": 375,
+        "bottom": 10321.125,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Thái độ tích cực quyết định thành công của mỗi người",
+      "rect": {
+        "x": 35,
+        "y": 10145.890625,
+        "width": 320,
+        "height": 42.40625,
+        "top": 10145.890625,
+        "right": 355,
+        "bottom": 10188.296875,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 10267.125,
+        "width": 100.203125,
+        "height": 34,
+        "top": 10267.125,
+        "right": 135.203125,
+        "bottom": 10301.125,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019",
+      "rect": {
+        "x": 15,
+        "y": 10553.625,
+        "width": 360,
+        "height": 196.453125,
+        "top": 10553.625,
+        "right": 375,
+        "bottom": 10750.078125,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Áp dụng 5S vào văn phòng làm việc",
+      "rect": {
+        "x": 35,
+        "y": 10575.25,
+        "width": 320,
+        "height": 42,
+        "top": 10575.25,
+        "right": 355,
+        "bottom": 10617.25,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 10696.078125,
+        "width": 100.203125,
+        "height": 34,
+        "top": 10696.078125,
+        "right": 135.203125,
+        "bottom": 10730.078125,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t",
+      "rect": {
+        "x": 15,
+        "y": 10982.578125,
+        "width": 360,
+        "height": 196.859375,
+        "top": 10982.578125,
+        "right": 375,
+        "bottom": 11179.4375,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Lên kế hoạch cho một ngày làm việc hiệu quả",
+      "rect": {
+        "x": 35,
+        "y": 11004.203125,
+        "width": 320,
+        "height": 42.40625,
+        "top": 11004.203125,
+        "right": 355,
+        "bottom": 11046.609375,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 11125.4375,
+        "width": 100.203125,
+        "height": 34,
+        "top": 11125.4375,
+        "right": 135.203125,
+        "bottom": 11159.4375,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n",
+      "rect": {
+        "x": 15,
+        "y": 11411.9375,
+        "width": 360,
+        "height": 196.859375,
+        "top": 11411.9375,
+        "right": 375,
+        "bottom": 11608.796875,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Quản lý thời gian hiệu quả và nâng cao năng suất",
+      "rect": {
+        "x": 35,
+        "y": 11433.5625,
+        "width": 320,
+        "height": 42.40625,
+        "top": 11433.5625,
+        "right": 355,
+        "bottom": 11475.96875,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 11554.796875,
+        "width": 100.203125,
+        "height": 34,
+        "top": 11554.796875,
+        "right": 135.203125,
+        "bottom": 11588.796875,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t",
+      "rect": {
+        "x": 15,
+        "y": 11841.296875,
+        "width": 360,
+        "height": 196.859375,
+        "top": 11841.296875,
+        "right": 375,
+        "bottom": 12038.15625,
+        "left": 15
+      },
+      "font": "13.6px / 21.76px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp",
+      "rect": {
+        "x": 35,
+        "y": 11862.921875,
+        "width": 320,
+        "height": 42.40625,
+        "top": 11862.921875,
+        "right": 355,
+        "bottom": 11905.328125,
+        "left": 35
+      },
+      "font": "700 16.32px / 21.216px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.632px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 35,
+        "y": 11984.15625,
+        "width": 100.203125,
+        "height": 34,
+        "top": 11984.15625,
+        "right": 135.203125,
+        "bottom": 12018.15625,
+        "left": 35
+      },
+      "font": "700 13.6px / 29.784px Roboto, sans-serif",
+      "padding": "0px 16.32px",
+      "margin": "13.6px 13.6px 0px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "MÔI TRƯỜNG LÀM VIỆCCHUYÊN NGHIỆP",
+      "rect": {
+        "x": 91,
+        "y": 12352.671875,
+        "width": 274,
+        "height": 43.1875,
+        "top": 12352.671875,
+        "right": 365,
+        "bottom": 12395.859375,
+        "left": 91
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "CƠ HỘI ĐƯỢC THAM GIAKHÓA HỌC CHUYÊN MÔN",
+      "rect": {
+        "x": 91,
+        "y": 12449.609375,
+        "width": 274,
+        "height": 43.1875,
+        "top": 12449.609375,
+        "right": 365,
+        "bottom": 12492.796875,
+        "left": 91
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "CƠ HỘI THĂNG TIẾNTHEO NĂNG LỰC",
+      "rect": {
+        "x": 91,
+        "y": 12546.546875,
+        "width": 274,
+        "height": 43.1875,
+        "top": 12546.546875,
+        "right": 365,
+        "bottom": 12589.734375,
+        "left": 91
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "ĐỒNG NGHIỆPTHÂN THIỆN, HÒA ĐỒNG",
+      "rect": {
+        "x": 91,
+        "y": 12646.734375,
+        "width": 274,
+        "height": 43.1875,
+        "top": 12646.734375,
+        "right": 365,
+        "bottom": 12689.921875,
+        "left": 91
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "container section-title-container",
+      "tag": "DIV",
+      "text": "ĐĂNG KÝ",
+      "rect": {
+        "x": 15,
+        "y": 13277.890625,
+        "width": 360,
+        "height": 60.453125,
+        "top": 13277.890625,
+        "right": 375,
+        "bottom": 13338.34375,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 24px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Hãy liên hệ với chúng tôi",
+      "rect": {
+        "x": 15,
+        "y": 13362.34375,
+        "width": 360,
+        "height": 25.59375,
+        "top": 13362.34375,
+        "right": 375,
+        "bottom": 13387.9375,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Họ tên *",
+      "rect": {
+        "x": 15,
+        "y": 13408.734375,
+        "width": 360,
+        "height": 88.09375,
+        "top": 13408.734375,
+        "right": 375,
+        "bottom": 13496.828125,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Họ tên *",
+      "rect": {
+        "x": 15,
+        "y": 13408.734375,
+        "width": 360,
+        "height": 81.703125,
+        "top": 13408.734375,
+        "right": 375,
+        "bottom": 13490.4375,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-text wpcf7-validates-as-required",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13434.328125,
+        "width": 360,
+        "height": 40.109375,
+        "top": 13434.328125,
+        "right": 375,
+        "bottom": 13474.4375,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 12px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Địa chỉ *",
+      "rect": {
+        "x": 15,
+        "y": 13496.828125,
+        "width": 360,
+        "height": 88.09375,
+        "top": 13496.828125,
+        "right": 375,
+        "bottom": 13584.921875,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Địa chỉ *",
+      "rect": {
+        "x": 15,
+        "y": 13496.828125,
+        "width": 360,
+        "height": 81.703125,
+        "top": 13496.828125,
+        "right": 375,
+        "bottom": 13578.53125,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-text wpcf7-validates-as-required",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13522.421875,
+        "width": 360,
+        "height": 40.109375,
+        "top": 13522.421875,
+        "right": 375,
+        "bottom": 13562.53125,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 12px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Email *",
+      "rect": {
+        "x": 15,
+        "y": 13584.921875,
+        "width": 360,
+        "height": 88.09375,
+        "top": 13584.921875,
+        "right": 375,
+        "bottom": 13673.015625,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Email *",
+      "rect": {
+        "x": 15,
+        "y": 13584.921875,
+        "width": 360,
+        "height": 81.703125,
+        "top": 13584.921875,
+        "right": 375,
+        "bottom": 13666.625,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13610.515625,
+        "width": 360,
+        "height": 40.109375,
+        "top": 13610.515625,
+        "right": 375,
+        "bottom": 13650.625,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 12px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Số điện thoại *",
+      "rect": {
+        "x": 15,
+        "y": 13673.015625,
+        "width": 360,
+        "height": 88.09375,
+        "top": 13673.015625,
+        "right": 375,
+        "bottom": 13761.109375,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Số điện thoại *",
+      "rect": {
+        "x": 15,
+        "y": 13673.015625,
+        "width": 360,
+        "height": 81.703125,
+        "top": 13673.015625,
+        "right": 375,
+        "bottom": 13754.71875,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13698.609375,
+        "width": 360,
+        "height": 40.109375,
+        "top": 13698.609375,
+        "right": 375,
+        "bottom": 13738.71875,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 12px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Nội dung",
+      "rect": {
+        "x": 15,
+        "y": 13761.109375,
+        "width": 360,
+        "height": 167.984375,
+        "top": 13761.109375,
+        "right": 375,
+        "bottom": 13929.09375,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Nội dung",
+      "rect": {
+        "x": 15,
+        "y": 13761.109375,
+        "width": 360,
+        "height": 161.59375,
+        "top": 13761.109375,
+        "right": 375,
+        "bottom": 13922.703125,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-textarea",
+      "tag": "TEXTAREA",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13786.703125,
+        "width": 360,
+        "height": 120,
+        "top": 13786.703125,
+        "right": 375,
+        "bottom": 13906.703125,
+        "left": 15
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "11.2px 12px 0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13929.09375,
+        "width": 360,
+        "height": 54.3125,
+        "top": 13929.09375,
+        "right": 375,
+        "bottom": 13983.40625,
+        "left": 15
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-submit has-spinner",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 15,
+        "y": 13929.09375,
+        "width": 64.796875,
+        "height": 38.796875,
+        "top": 13929.09375,
+        "right": 79.796875,
+        "bottom": 13967.890625,
+        "left": 15
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    }
+  ],
+  "1440": [
+    {
+      "selector": "",
+      "tag": "H3",
+      "text": "Đánh giá ADN  để cải thiện sức khỏe",
+      "rect": {
+        "x": 780,
+        "y": 425.671875,
+        "width": 505,
+        "height": 83.1875,
+        "top": 425.671875,
+        "right": 1285,
+        "bottom": 508.859375,
+        "left": 780
+      },
+      "font": "32px / 41.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "6.4px 0px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 1156.640625,
+        "y": 523,
+        "width": 128.359375,
+        "height": 39.25,
+        "top": 523,
+        "right": 1285,
+        "bottom": 562.25,
+        "left": 1156.640625
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "7.76px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H3",
+      "text": "Phân tích X-RAY để đánh giá tình trạng sức khỏe",
+      "rect": {
+        "x": 2220,
+        "y": 425.671875,
+        "width": 505,
+        "height": 83.1875,
+        "top": 425.671875,
+        "right": 2725,
+        "bottom": 508.859375,
+        "left": 2220
+      },
+      "font": "32px / 41.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "6.4px 0px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 2596.640625,
+        "y": 523,
+        "width": 128.359375,
+        "height": 39.25,
+        "top": 523,
+        "right": 2725,
+        "bottom": 562.25,
+        "left": 2596.640625
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "7.76px 0px"
+    },
+    {
+      "selector": "button primary lowercase",
+      "tag": "A",
+      "text": "Xem chi tiết",
+      "rect": {
+        "x": 649.390625,
+        "y": 944.578125,
+        "width": 141.203125,
+        "height": 39.25,
+        "top": 944.578125,
+        "right": 790.59375,
+        "bottom": 983.828125,
+        "left": 649.390625
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 110,
+        "y": 2285.796875,
+        "width": 522,
+        "height": 17.125,
+        "top": 2285.796875,
+        "right": 632,
+        "bottom": 2302.921875,
+        "left": 110
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "rect": {
+        "x": 110,
+        "y": 2311.078125,
+        "width": 522,
+        "height": 39.921875,
+        "top": 2311.078125,
+        "right": 632,
+        "bottom": 2351,
+        "left": 110
+      },
+      "font": "700 30.72px / 39.936px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 15.36px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế hệ thống Khí Y tế trung tâm theo tiêu c",
+      "rect": {
+        "x": 130.796875,
+        "y": 2366.359375,
+        "width": 501.203125,
+        "height": 51.1875,
+        "top": 2366.359375,
+        "right": 632,
+        "bottom": 2417.546875,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Thực hiện các bản vẽ thiết kế & hoàn công",
+      "rect": {
+        "x": 130.796875,
+        "y": 2427.140625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2427.140625,
+        "right": 632,
+        "bottom": 2452.734375,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Quản lý & Giám sát thi công",
+      "rect": {
+        "x": 130.796875,
+        "y": 2462.328125,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2462.328125,
+        "right": 632,
+        "bottom": 2487.921875,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Kiểm tra chất lượng thi công & chất lượng khí cung cấp",
+      "rect": {
+        "x": 130.796875,
+        "y": 2497.515625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2497.515625,
+        "right": 632,
+        "bottom": 2523.109375,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Bảo trì hệ thống",
+      "rect": {
+        "x": 130.796875,
+        "y": 2532.703125,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2532.703125,
+        "right": 632,
+        "bottom": 2558.296875,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Đào tạo thiết kế, lắp đặt & bảo trì hệ thống",
+      "rect": {
+        "x": 130.796875,
+        "y": 2567.890625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2567.890625,
+        "right": 632,
+        "bottom": 2593.484375,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 110,
+        "y": 2614.28125,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 2614.28125,
+        "right": 253.109375,
+        "bottom": 2653.53125,
+        "left": 110
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 808,
+        "y": 2828.421875,
+        "width": 522,
+        "height": 17.125,
+        "top": 2828.421875,
+        "right": 1330,
+        "bottom": 2845.546875,
+        "left": 808
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ SẠCH ÁP LỰC DƯƠNG",
+      "rect": {
+        "x": 808,
+        "y": 2853.703125,
+        "width": 522,
+        "height": 79.84375,
+        "top": 2853.703125,
+        "right": 1330,
+        "bottom": 2933.546875,
+        "left": 808
+      },
+      "font": "700 30.72px / 39.936px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 15.36px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế hệ thống khí sạch áp lực dương",
+      "rect": {
+        "x": 828.796875,
+        "y": 2948.90625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2948.90625,
+        "right": 1330,
+        "bottom": 2974.5,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn lựa chọn thiết bị cung cấp & thông số kỹ thuật p",
+      "rect": {
+        "x": 828.796875,
+        "y": 2984.09375,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 2984.09375,
+        "right": 1330,
+        "bottom": 3009.6875,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Thi công lắp đặt hệ thống khí sạch áp lực dương cho Phò",
+      "rect": {
+        "x": 828.796875,
+        "y": 3019.28125,
+        "width": 501.203125,
+        "height": 51.1875,
+        "top": 3019.28125,
+        "right": 1330,
+        "bottom": 3070.46875,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn & cung cấp dịch vụ kiểm tra chất lượng phòng sạc",
+      "rect": {
+        "x": 828.796875,
+        "y": 3080.0625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 3080.0625,
+        "right": 1330,
+        "bottom": 3105.65625,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Dịch vụ bảo trì hệ thống khí sạch áp lực dương",
+      "rect": {
+        "x": 828.796875,
+        "y": 3115.25,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 3115.25,
+        "right": 1330,
+        "bottom": 3140.84375,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 808,
+        "y": 3161.640625,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 3161.640625,
+        "right": 951.109375,
+        "bottom": 3200.890625,
+        "left": 808
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "CÁC GIẢI PHÁP CHO",
+      "rect": {
+        "x": 110,
+        "y": 3370.1875,
+        "width": 522,
+        "height": 17.125,
+        "top": 3370.1875,
+        "right": 632,
+        "bottom": 3387.3125,
+        "left": 110
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "HỆ THỐNG KHÍ Y TẾ TRUNG TÂM",
+      "rect": {
+        "x": 110,
+        "y": 3395.46875,
+        "width": 522,
+        "height": 39.921875,
+        "top": 3395.46875,
+        "right": 632,
+        "bottom": 3435.390625,
+        "left": 110
+      },
+      "font": "700 30.72px / 39.936px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 15.36px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế, cung cấp, thi công hoàn thiện Hệ thống",
+      "rect": {
+        "x": 130.796875,
+        "y": 3450.75,
+        "width": 501.203125,
+        "height": 51.1875,
+        "top": 3450.75,
+        "right": 632,
+        "bottom": 3501.9375,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế các hệ thống đèn mổ, cánh tay treo trần",
+      "rect": {
+        "x": 130.796875,
+        "y": 3511.53125,
+        "width": 501.203125,
+        "height": 76.78125,
+        "top": 3511.53125,
+        "right": 632,
+        "bottom": 3588.3125,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn thiết kế các giải pháp thiết bị & nội thất cho p",
+      "rect": {
+        "x": 130.796875,
+        "y": 3597.90625,
+        "width": 501.203125,
+        "height": 51.1875,
+        "top": 3597.90625,
+        "right": 632,
+        "bottom": 3649.09375,
+        "left": 130.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 110,
+        "y": 3669.890625,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 3669.890625,
+        "right": 253.109375,
+        "bottom": 3709.140625,
+        "left": 110
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H6",
+      "text": "DỊCH VỤ TƯ VẤN, LẮP ĐẶT",
+      "rect": {
+        "x": 808,
+        "y": 3958.78125,
+        "width": 522,
+        "height": 17.125,
+        "top": 3958.78125,
+        "right": 1330,
+        "bottom": 3975.90625,
+        "left": 808
+      },
+      "font": "700 16.32px / 17.136px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 8.16px"
+    },
+    {
+      "selector": "",
+      "tag": "H2",
+      "text": "BẢO HÀNH, BẢO TRÌ THIẾT BỊ Y TẾ",
+      "rect": {
+        "x": 808,
+        "y": 3984.0625,
+        "width": 522,
+        "height": 39.921875,
+        "top": 3984.0625,
+        "right": 1330,
+        "bottom": 4023.984375,
+        "left": 808
+      },
+      "font": "700 30.72px / 39.936px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 15.36px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Tư vấn lựa chọn thiết bị y tế",
+      "rect": {
+        "x": 828.796875,
+        "y": 4039.34375,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 4039.34375,
+        "right": 1330,
+        "bottom": 4064.9375,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp dịch vụ lắp đặt, hướng dẫn sử dụng các thiết b",
+      "rect": {
+        "x": 828.796875,
+        "y": 4074.53125,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 4074.53125,
+        "right": 1330,
+        "bottom": 4100.125,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp dịch vụ sửa chữa, bảo trì thiết bị y tế",
+      "rect": {
+        "x": 828.796875,
+        "y": 4109.71875,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 4109.71875,
+        "right": 1330,
+        "bottom": 4135.3125,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "LI",
+      "text": "Cung cấp các chương trình đào tạo chuyên sâu",
+      "rect": {
+        "x": 828.796875,
+        "y": 4144.90625,
+        "width": 501.203125,
+        "height": 25.59375,
+        "top": 4144.90625,
+        "right": 1330,
+        "bottom": 4170.5,
+        "left": 828.796875
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 9.6px 20.8px"
+    },
+    {
+      "selector": "button primary",
+      "tag": "A",
+      "text": "Tư vấn ngay",
+      "rect": {
+        "x": 808,
+        "y": 4191.296875,
+        "width": 143.109375,
+        "height": 39.25,
+        "top": 4191.296875,
+        "right": 951.109375,
+        "bottom": 4230.546875,
+        "left": 808
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 5245.3125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5245.3125,
+        "right": 480,
+        "bottom": 5610.203125,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 480,
+        "y": 5245.3125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5245.3125,
+        "right": 960,
+        "bottom": 5610.203125,
+        "left": 480
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 960,
+        "y": 5245.3125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5245.3125,
+        "right": 1440,
+        "bottom": 5610.203125,
+        "left": 960
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 480,
+        "bottom": 5975.09375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 480,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 960,
+        "bottom": 5975.09375,
+        "left": 480
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 960,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 1440,
+        "bottom": 5975.09375,
+        "left": 960
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 480,
+        "bottom": 5975.09375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 480,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 960,
+        "bottom": 5975.09375,
+        "left": 480
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 960,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 1440,
+        "bottom": 5975.09375,
+        "left": 960
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Nguyễn Tri Phương",
+      "rect": {
+        "x": 0,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 480,
+        "bottom": 5975.09375,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viện Đa Khoa Xuyên Á",
+      "rect": {
+        "x": 480,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 960,
+        "bottom": 5975.09375,
+        "left": 480
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "col post-item",
+      "tag": "DIV",
+      "text": "Bệnh viên Quốc tế Thảo Điền",
+      "rect": {
+        "x": 960,
+        "y": 5610.203125,
+        "width": 480,
+        "height": 364.890625,
+        "top": 5610.203125,
+        "right": 1440,
+        "bottom": 5975.09375,
+        "left": 960
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px 9.8px 19.6px",
+      "margin": "0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "21 nguyên tắc để hoàn thành công việc hiệu quả\n\t\t\t\t\t\n\t\t",
+      "rect": {
+        "x": 110,
+        "y": 6088.265625,
+        "width": 386.65625,
+        "height": 217.703125,
+        "top": 6088.265625,
+        "right": 496.65625,
+        "bottom": 6305.96875,
+        "left": 110
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "21 nguyên tắc để hoàn thành công việc hiệu quả",
+      "rect": {
+        "x": 130,
+        "y": 6110.125,
+        "width": 346.65625,
+        "height": 48.65625,
+        "top": 6110.125,
+        "right": 476.65625,
+        "bottom": 6158.78125,
+        "left": 130
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 130,
+        "y": 6244.578125,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6244.578125,
+        "right": 251.578125,
+        "bottom": 6285.96875,
+        "left": 130
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Thái độ tích cực quyết định thành công của mỗi người\n\t\t",
+      "rect": {
+        "x": 526.65625,
+        "y": 6088.265625,
+        "width": 386.65625,
+        "height": 217.703125,
+        "top": 6088.265625,
+        "right": 913.3125,
+        "bottom": 6305.96875,
+        "left": 526.65625
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Thái độ tích cực quyết định thành công của mỗi người",
+      "rect": {
+        "x": 546.65625,
+        "y": 6110.125,
+        "width": 346.65625,
+        "height": 48.65625,
+        "top": 6110.125,
+        "right": 893.3125,
+        "bottom": 6158.78125,
+        "left": 546.65625
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 546.65625,
+        "y": 6244.578125,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6244.578125,
+        "right": 668.234375,
+        "bottom": 6285.96875,
+        "left": 546.65625
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Áp dụng 5S vào văn phòng làm việc\n\t\t\t\t\t\n\t\t\t\t\t22/05/2019",
+      "rect": {
+        "x": 943.3125,
+        "y": 6088.265625,
+        "width": 386.65625,
+        "height": 211.046875,
+        "top": 6088.265625,
+        "right": 1329.96875,
+        "bottom": 6299.3125,
+        "left": 943.3125
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Áp dụng 5S vào văn phòng làm việc",
+      "rect": {
+        "x": 963.3125,
+        "y": 6110.125,
+        "width": 346.65625,
+        "height": 42,
+        "top": 6110.125,
+        "right": 1309.96875,
+        "bottom": 6152.125,
+        "left": 963.3125
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 963.3125,
+        "y": 6237.921875,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6237.921875,
+        "right": 1084.890625,
+        "bottom": 6279.3125,
+        "left": 963.3125
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Lên kế hoạch cho một ngày làm việc hiệu quả\n\t\t\t\t\t\n\t\t\t\t\t",
+      "rect": {
+        "x": 110,
+        "y": 6553.453125,
+        "width": 386.65625,
+        "height": 217.703125,
+        "top": 6553.453125,
+        "right": 496.65625,
+        "bottom": 6771.15625,
+        "left": 110
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Lên kế hoạch cho một ngày làm việc hiệu quả",
+      "rect": {
+        "x": 130,
+        "y": 6575.3125,
+        "width": 346.65625,
+        "height": 48.65625,
+        "top": 6575.3125,
+        "right": 476.65625,
+        "bottom": 6623.96875,
+        "left": 130
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 130,
+        "y": 6709.765625,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6709.765625,
+        "right": 251.578125,
+        "bottom": 6751.15625,
+        "left": 130
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Quản lý thời gian hiệu quả và nâng cao năng suất\n\t\t\t\t\t\n",
+      "rect": {
+        "x": 526.65625,
+        "y": 6553.453125,
+        "width": 386.65625,
+        "height": 217.703125,
+        "top": 6553.453125,
+        "right": 913.3125,
+        "bottom": 6771.15625,
+        "left": 526.65625
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Quản lý thời gian hiệu quả và nâng cao năng suất",
+      "rect": {
+        "x": 546.65625,
+        "y": 6575.3125,
+        "width": 346.65625,
+        "height": 48.65625,
+        "top": 6575.3125,
+        "right": 893.3125,
+        "bottom": 6623.96875,
+        "left": 546.65625
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 546.65625,
+        "y": 6709.765625,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6709.765625,
+        "right": 668.234375,
+        "bottom": 6751.15625,
+        "left": 546.65625
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "box-text text-left",
+      "tag": "DIV",
+      "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp\n\t\t\t\t\t\n\t\t",
+      "rect": {
+        "x": 943.3125,
+        "y": 6553.453125,
+        "width": 386.65625,
+        "height": 217.703125,
+        "top": 6553.453125,
+        "right": 1329.96875,
+        "bottom": 6771.15625,
+        "left": 943.3125
+      },
+      "font": "14.4px / 23.04px Roboto, sans-serif",
+      "padding": "20px",
+      "margin": "0px"
+    },
+    {
+      "selector": "post-title is-larger ",
+      "tag": "H5",
+      "text": "Phân tích SWOT bản thân để cải thiện sự nghiệp",
+      "rect": {
+        "x": 963.3125,
+        "y": 6575.3125,
+        "width": 346.65625,
+        "height": 48.65625,
+        "top": 6575.3125,
+        "right": 1309.96875,
+        "bottom": 6623.96875,
+        "left": 963.3125
+      },
+      "font": "700 18.72px / 24.336px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "1.872px 0px"
+    },
+    {
+      "selector": "button primary is-outline is-large mb-0",
+      "tag": "A",
+      "text": "Xem thêm",
+      "rect": {
+        "x": 963.3125,
+        "y": 6709.765625,
+        "width": 121.578125,
+        "height": 41.390625,
+        "top": 6709.765625,
+        "right": 1084.890625,
+        "bottom": 6751.15625,
+        "left": 963.3125
+      },
+      "font": "700 16.56px / 36.2664px Roboto, sans-serif",
+      "padding": "0px 19.872px",
+      "margin": "16.56px 16.56px 0px 0px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "MÔI TRƯỜNG LÀM VIỆCCHUYÊN NGHIỆP",
+      "rect": {
+        "x": 186,
+        "y": 7035.609375,
+        "width": 196.5,
+        "height": 43.1875,
+        "top": 7035.609375,
+        "right": 382.5,
+        "bottom": 7078.796875,
+        "left": 186
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "CƠ HỘI ĐƯỢC THAM GIAKHÓA HỌC CHUYÊN MÔN",
+      "rect": {
+        "x": 498.5,
+        "y": 7035.609375,
+        "width": 196.5,
+        "height": 43.1875,
+        "top": 7035.609375,
+        "right": 695,
+        "bottom": 7078.796875,
+        "left": 498.5
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "CƠ HỘI THĂNG TIẾNTHEO NĂNG LỰC",
+      "rect": {
+        "x": 811,
+        "y": 7035.609375,
+        "width": 196.5,
+        "height": 43.1875,
+        "top": 7035.609375,
+        "right": 1007.5,
+        "bottom": 7078.796875,
+        "left": 811
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "",
+      "tag": "H4",
+      "text": "ĐỒNG NGHIỆPTHÂN THIỆN, HÒA ĐỒNG",
+      "rect": {
+        "x": 1123.5,
+        "y": 7035.609375,
+        "width": 196.5,
+        "height": 43.1875,
+        "top": 7035.609375,
+        "right": 1320,
+        "bottom": 7078.796875,
+        "left": 1123.5
+      },
+      "font": "700 13.5px / 21.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.75px"
+    },
+    {
+      "selector": "container section-title-container",
+      "tag": "DIV",
+      "text": "ĐĂNG KÝ",
+      "rect": {
+        "x": 110,
+        "y": 7700.015625,
+        "width": 595,
+        "height": 60.453125,
+        "top": 7700.015625,
+        "right": 705,
+        "bottom": 7760.46875,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 24px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Hãy liên hệ với chúng tôi",
+      "rect": {
+        "x": 110,
+        "y": 7784.46875,
+        "width": 595,
+        "height": 25.59375,
+        "top": 7784.46875,
+        "right": 705,
+        "bottom": 7810.0625,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 20.8px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 16px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Họ tên *",
+      "rect": {
+        "x": 110,
+        "y": 7830.859375,
+        "width": 282.5,
+        "height": 86.40625,
+        "top": 7830.859375,
+        "right": 392.5,
+        "bottom": 7917.265625,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Họ tên *",
+      "rect": {
+        "x": 110,
+        "y": 7830.859375,
+        "width": 282.5,
+        "height": 80.015625,
+        "top": 7830.859375,
+        "right": 392.5,
+        "bottom": 7910.875,
+        "left": 110
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-text wpcf7-validates-as-required",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 110,
+        "y": 7856.453125,
+        "width": 282.5,
+        "height": 38.90625,
+        "top": 7856.453125,
+        "right": 392.5,
+        "bottom": 7895.359375,
+        "left": 110
+      },
+      "font": "700 15.52px / 24.832px Roboto, sans-serif",
+      "padding": "0px 11.64px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Địa chỉ *",
+      "rect": {
+        "x": 422.5,
+        "y": 7830.859375,
+        "width": 282.5,
+        "height": 86.40625,
+        "top": 7830.859375,
+        "right": 705,
+        "bottom": 7917.265625,
+        "left": 422.5
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Địa chỉ *",
+      "rect": {
+        "x": 422.5,
+        "y": 7830.859375,
+        "width": 282.5,
+        "height": 80.015625,
+        "top": 7830.859375,
+        "right": 705,
+        "bottom": 7910.875,
+        "left": 422.5
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-text wpcf7-validates-as-required",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 422.5,
+        "y": 7856.453125,
+        "width": 282.5,
+        "height": 38.90625,
+        "top": 7856.453125,
+        "right": 705,
+        "bottom": 7895.359375,
+        "left": 422.5
+      },
+      "font": "700 15.52px / 24.832px Roboto, sans-serif",
+      "padding": "0px 11.64px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Email *",
+      "rect": {
+        "x": 110,
+        "y": 7917.265625,
+        "width": 282.5,
+        "height": 86.40625,
+        "top": 7917.265625,
+        "right": 392.5,
+        "bottom": 8003.671875,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Email *",
+      "rect": {
+        "x": 110,
+        "y": 7917.265625,
+        "width": 282.5,
+        "height": 80.015625,
+        "top": 7917.265625,
+        "right": 392.5,
+        "bottom": 7997.28125,
+        "left": 110
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 110,
+        "y": 7942.859375,
+        "width": 282.5,
+        "height": 38.90625,
+        "top": 7942.859375,
+        "right": 392.5,
+        "bottom": 7981.765625,
+        "left": 110
+      },
+      "font": "700 15.52px / 24.832px Roboto, sans-serif",
+      "padding": "0px 11.64px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Số điện thoại *",
+      "rect": {
+        "x": 422.5,
+        "y": 7917.265625,
+        "width": 282.5,
+        "height": 86.40625,
+        "top": 7917.265625,
+        "right": 705,
+        "bottom": 8003.671875,
+        "left": 422.5
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Số điện thoại *",
+      "rect": {
+        "x": 422.5,
+        "y": 7917.265625,
+        "width": 282.5,
+        "height": 80.015625,
+        "top": 7917.265625,
+        "right": 705,
+        "bottom": 7997.28125,
+        "left": 422.5
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 422.5,
+        "y": 7942.859375,
+        "width": 282.5,
+        "height": 38.90625,
+        "top": 7942.859375,
+        "right": 705,
+        "bottom": 7981.765625,
+        "left": 422.5
+      },
+      "font": "700 15.52px / 24.832px Roboto, sans-serif",
+      "padding": "0px 11.64px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "Nội dung",
+      "rect": {
+        "x": 110,
+        "y": 8003.671875,
+        "width": 595,
+        "height": 167.5,
+        "top": 8003.671875,
+        "right": 705,
+        "bottom": 8171.171875,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "",
+      "tag": "LABEL",
+      "text": "Nội dung",
+      "rect": {
+        "x": 110,
+        "y": 8003.671875,
+        "width": 595,
+        "height": 161.109375,
+        "top": 8003.671875,
+        "right": 705,
+        "bottom": 8164.78125,
+        "left": 110
+      },
+      "font": "700 16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 6.4px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-textarea",
+      "tag": "TEXTAREA",
+      "text": "",
+      "rect": {
+        "x": 110,
+        "y": 8029.265625,
+        "width": 595,
+        "height": 120,
+        "top": 8029.265625,
+        "right": 705,
+        "bottom": 8149.265625,
+        "left": 110
+      },
+      "font": "700 15.52px / 24.832px Roboto, sans-serif",
+      "padding": "10.864px 11.64px 0px",
+      "margin": "0px 0px 15.52px"
+    },
+    {
+      "selector": "",
+      "tag": "P",
+      "text": "",
+      "rect": {
+        "x": 110,
+        "y": 8171.171875,
+        "width": 595,
+        "height": 54.3125,
+        "top": 8171.171875,
+        "right": 705,
+        "bottom": 8225.484375,
+        "left": 110
+      },
+      "font": "16px / 25.6px Roboto, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    {
+      "selector": "wpcf7-form-control wpcf7-submit has-spinner",
+      "tag": "INPUT",
+      "text": "",
+      "rect": {
+        "x": 110,
+        "y": 8171.171875,
+        "width": 64.796875,
+        "height": 38.796875,
+        "top": 8171.171875,
+        "right": 174.796875,
+        "bottom": 8209.96875,
+        "left": 110
+      },
+      "font": "700 15.52px / 37.248px Roboto, sans-serif",
+      "padding": "0px 18.624px",
+      "margin": "0px 15.52px 15.52px 0px"
+    }
+  ]
+}

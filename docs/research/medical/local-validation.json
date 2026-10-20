@@ -1,0 +1,239 @@
+{
+  "390": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "hero",
+        "height": 400
+      },
+      {
+        "name": "about",
+        "height": 562.203125
+      },
+      {
+        "name": "products",
+        "height": 2839.671875
+      },
+      {
+        "name": "service service-0",
+        "height": 825
+      },
+      {
+        "name": "service service-1",
+        "height": 830.953125
+      },
+      {
+        "name": "service service-2",
+        "height": 756.21875
+      },
+      {
+        "name": "service service-3",
+        "height": 778.984375
+      },
+      {
+        "name": "why-choose",
+        "height": 965.8125
+      },
+      {
+        "name": "projects",
+        "height": 1210.359375
+      },
+      {
+        "name": "news",
+        "height": 2813.1875
+      },
+      {
+        "name": "careers",
+        "height": 731.3125
+      },
+      {
+        "name": "partners",
+        "height": 349.5625
+      },
+      {
+        "name": "registration",
+        "height": 918.203125
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "768": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "hero",
+        "height": 400
+      },
+      {
+        "name": "about",
+        "height": 408.640625
+      },
+      {
+        "name": "products",
+        "height": 1129.671875
+      },
+      {
+        "name": "service service-0",
+        "height": 568.234375
+      },
+      {
+        "name": "service service-1",
+        "height": 544.234375
+      },
+      {
+        "name": "service service-2",
+        "height": 499.453125
+      },
+      {
+        "name": "service service-3",
+        "height": 492.265625
+      },
+      {
+        "name": "why-choose",
+        "height": 648.390625
+      },
+      {
+        "name": "projects",
+        "height": 600.46875
+      },
+      {
+        "name": "news",
+        "height": 957.546875
+      },
+      {
+        "name": "careers",
+        "height": 429.5
+      },
+      {
+        "name": "partners",
+        "height": 306.25
+      },
+      {
+        "name": "registration",
+        "height": 704.859375
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "1440": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "hero",
+        "height": 600
+      },
+      {
+        "name": "about",
+        "height": 408.640625
+      },
+      {
+        "name": "products",
+        "height": 1129.671875
+      },
+      {
+        "name": "service service-0",
+        "height": 565
+      },
+      {
+        "name": "service service-1",
+        "height": 525
+      },
+      {
+        "name": "service service-2",
+        "height": 525
+      },
+      {
+        "name": "service service-3",
+        "height": 585
+      },
+      {
+        "name": "why-choose",
+        "height": 648.390625
+      },
+      {
+        "name": "projects",
+        "height": 687.265625
+      },
+      {
+        "name": "news",
+        "height": 1112.203125
+      },
+      {
+        "name": "careers",
+        "height": 388.3125
+      },
+      {
+        "name": "partners",
+        "height": 378.5625
+      },
+      {
+        "name": "registration",
+        "height": 704.859375
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "1920": {
+    "overflow": false,
+    "sections": [
+      {
+        "name": "hero",
+        "height": 600
+      },
+      {
+        "name": "about",
+        "height": 408.640625
+      },
+      {
+        "name": "products",
+        "height": 1129.671875
+      },
+      {
+        "name": "service service-0",
+        "height": 565
+      },
+      {
+        "name": "service service-1",
+        "height": 525
+      },
+      {
+        "name": "service service-2",
+        "height": 525
+      },
+      {
+        "name": "service service-3",
+        "height": 585
+      },
+      {
+        "name": "why-choose",
+        "height": 648.390625
+      },
+      {
+        "name": "projects",
+        "height": 687.265625
+      },
+      {
+        "name": "news",
+        "height": 1112.203125
+      },
+      {
+        "name": "careers",
+        "height": 388.3125
+      },
+      {
+        "name": "partners",
+        "height": 378.5625
+      },
+      {
+        "name": "registration",
+        "height": 704.859375
+      }
+    ],
+    "brokenImages": [],
+    "errors": []
+  },
+  "interactions": "project tabs, search, contact validation/save, partner lightbox, back-to-top, hero navigation passed"
+}
